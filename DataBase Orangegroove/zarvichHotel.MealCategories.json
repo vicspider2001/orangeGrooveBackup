@@ -1,0 +1,147 @@
+[{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f143"
+  },
+  "mealTypeID": 1,
+  "mealType": "Potatoe Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f144"
+  },
+  "mealTypeID": 2,
+  "mealType": "Yam Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f145"
+  },
+  "mealTypeID": 3,
+  "mealType": "Plantain Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f146"
+  },
+  "mealTypeID": 4,
+  "mealType": "Noodles Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f147"
+  },
+  "mealTypeID": 5,
+  "mealType": "Rice Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f148"
+  },
+  "mealTypeID": 6,
+  "mealType": "Pasta Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f149"
+  },
+  "mealTypeID": 7,
+  "mealType": "Chicken Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f14a"
+  },
+  "mealTypeID": 8,
+  "mealType": "Beef Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f14b"
+  },
+  "mealTypeID": 9,
+  "mealType": "Nigerian Soups"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f14c"
+  },
+  "mealTypeID": 10,
+  "mealType": "Swallow Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f14d"
+  },
+  "mealTypeID": 11,
+  "mealType": "Fish Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f14e"
+  },
+  "mealTypeID": 12,
+  "mealType": "Salad Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f14f"
+  },
+  "mealTypeID": 13,
+  "mealType": "Puding"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f150"
+  },
+  "mealTypeID": 14,
+  "mealType": "Egg Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f151"
+  },
+  "mealTypeID": 15,
+  "mealType": "Tea Pots"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f152"
+  },
+  "mealTypeID": 16,
+  "mealType": "Sandwich Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f153"
+  },
+  "mealTypeID": 17,
+  "mealType": "Sausage Dish"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f154"
+  },
+  "mealTypeID": 18,
+  "mealType": "Bread"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f155"
+  },
+  "mealTypeID": 19,
+  "mealType": "Complete English Breakfast"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f156"
+  },
+  "mealTypeID": 20,
+  "mealType": "Continental Soups"
+},
+{
+  "_id": {
+    "$oid": "666a8b0396de5cfef105f157"
+  },
+  "mealTypeID": 21,
+  "mealType": "Drinks"
+}]

@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "666a895d96de5cfef105f107"
+  },
+  "name": "Victor A",
+  "username": "victor",
+  "password": "1977"
+},
+{
+  "_id": {
+    "$oid": "666a895d96de5cfef105f108"
+  },
+  "refID": "33179",
+  "name": "KOLA",
+  "username": "KOLA",
+  "password": "1005",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dc5b0610c20dd2bb40b38"
+  },
+  "refID": "622724",
+  "name": "IBRAHIM ABDULLAHI",
+  "username": "IBRAHIM",
+  "password": "6464",
+  "department": "Reception"
+},
+{
+  "_id": {
+    "$oid": "666dc70e610c20dd2bb40b42"
+  },
+  "refID": "762017",
+  "name": "BARAKA",
+  "username": "BARAKA",
+  "password": "2124",
+  "department": "Reception"
+},
+{
+  "_id": {
+    "$oid": "666dc8c3610c20dd2bb40b4c"
+  },
+  "refID": "615467",
+  "name": "VICTORIA",
+  "username": "VICTORIA",
+  "password": "2222",
+  "department": "Reception"
+},
+{
+  "_id": {
+    "$oid": "666dcbae610c20dd2bb40b58"
+  },
+  "refID": "238805",
+  "name": "JOHNSON",
+  "username": "GM",
+  "password": "ATTAMA",
+  "department": "Reception"
+}]

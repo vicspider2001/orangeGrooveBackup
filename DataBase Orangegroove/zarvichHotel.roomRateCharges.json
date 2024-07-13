@@ -1,0 +1,15 @@
+[{
+  "_id": "668fd450a65ee059cf5dd71a",
+  "refID": "46915517",
+  "fname": "Ibrahim",
+  "lname": "Ibrahim",
+  "group": "",
+  "roomtypeName": "Orange Studio",
+  "arrivalDate": "Wed Jul 10 2024 00:00:00 GMT+0100 (West Africa Standard Time)",
+  "departureDate": "Thu Jul 11 2024 00:00:00 GMT+0100 (West Africa Standard Time)",
+  "roomNumbers": "216",
+  "dailyRate": "34356",
+  "tranDate": "2024-07-11T12:47:04.471Z",
+  "description": "Daily Room Rate",
+  "searchKey": "GuestBill"
+}]

@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f110"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "101",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f111"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "102",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f112"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "103",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f113"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "104",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f114"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "105",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f115"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "108",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f116"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "109",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f117"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "204",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f118"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "213",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f119"
+  },
+  "roomtypeID": 1,
+  "roomtypeName": "Orange Standard",
+  "roomNumbers": "218",
+  "roomRate": "47853",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f11a"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "106",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f11b"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "203",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f11c"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "203",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f11d"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "206",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f11e"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "209",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f11f"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "210",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f120"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "215",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f121"
+  },
+  "roomtypeID": 2,
+  "roomtypeName": "Orange Studio",
+  "roomNumbers": "216",
+  "roomRate": "42945",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f122"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "107",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f123"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "202",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f124"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "205",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f125"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "208",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f126"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "211",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f127"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "214",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f128"
+  },
+  "roomtypeID": 3,
+  "roomtypeName": "Superior Double",
+  "roomNumbers": "217",
+  "roomRate": "51534",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f129"
+  },
+  "roomtypeID": 4,
+  "roomtypeName": "Orange Suite",
+  "roomNumbers": "110",
+  "roomRate": "73620",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f12a"
+  },
+  "roomtypeID": 4,
+  "roomtypeName": "Orange Suite",
+  "roomNumbers": "201",
+  "roomRate": "73620",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f12b"
+  },
+  "roomtypeID": 4,
+  "roomtypeName": "Orange Suite",
+  "roomNumbers": "207",
+  "roomRate": "73620",
+  "floorNumber": "1"
+},
+{
+  "_id": {
+    "$oid": "666a89e796de5cfef105f12c"
+  },
+  "roomtypeID": 4,
+  "roomtypeName": "Orange Suite",
+  "roomNumbers": "212",
+  "roomRate": "73620",
+  "floorNumber": "1"
+}]

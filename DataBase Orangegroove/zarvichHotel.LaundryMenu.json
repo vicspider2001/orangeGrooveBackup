@@ -1,0 +1,560 @@
+[{
+  "_id": "1",
+  "mealTypeID": 1,
+  "mealName": "Kaftan",
+  "mealPrice": "750",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "2",
+  "mealTypeID": 1,
+  "mealName": "Tie",
+  "mealPrice": "750",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "3",
+  "mealTypeID": 1,
+  "mealName": "Winter Jacket",
+  "mealPrice": "700",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "4",
+  "mealTypeID": 1,
+  "mealName": "Jeans Trouser",
+  "mealPrice": "700",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "5",
+  "mealTypeID": 1,
+  "mealName": "Lawyer Robe",
+  "mealPrice": "1650",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "6",
+  "mealTypeID": 1,
+  "mealName": "Socks",
+  "mealPrice": "200",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "7",
+  "mealTypeID": 1,
+  "mealName": "Jalabia",
+  "mealPrice": "550",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "8",
+  "mealTypeID": 1,
+  "mealName": "Chinos",
+  "mealPrice": "700",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "9",
+  "mealTypeID": 1,
+  "mealName": "Windbreaker",
+  "mealPrice": "600",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "10",
+  "mealTypeID": 1,
+  "mealName": "Vest-T-Shirt",
+  "mealPrice": "400",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "11",
+  "mealTypeID": 1,
+  "mealName": "Sweater",
+  "mealPrice": "400",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "12",
+  "mealTypeID": 1,
+  "mealName": "Overcoat",
+  "mealPrice": "1100",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "13",
+  "mealTypeID": 1,
+  "mealName": "Blazer",
+  "mealPrice": "1100",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "14",
+  "mealTypeID": 1,
+  "mealName": "Kaftan Washing Alone",
+  "mealPrice": "450",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "15",
+  "mealTypeID": 1,
+  "mealName": "Kaftan Pressing Alone",
+  "mealPrice": "300",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "16",
+  "mealTypeID": 1,
+  "mealName": "Tie Washing Alone",
+  "mealPrice": "450",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "17",
+  "mealTypeID": 1,
+  "mealName": "Tie Pressing Alone",
+  "mealPrice": "300",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "18",
+  "mealTypeID": 1,
+  "mealName": "Jeans Trouser Washing Alone",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "19",
+  "mealTypeID": 1,
+  "mealName": "Jeans Trouser Pressing Alone",
+  "mealPrice": "250",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "20",
+  "mealTypeID": 1,
+  "mealName": "Lawyer Robe Washing Alone",
+  "mealPrice": "900",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "21",
+  "mealTypeID": 1,
+  "mealName": "Lawyer Robe Pressing Alone",
+  "mealPrice": "750",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "22",
+  "mealTypeID": 1,
+  "mealName": "Jalabia Washing Alone",
+  "mealPrice": "300",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "23",
+  "mealTypeID": 1,
+  "mealName": "Jalabia Pressing Alone",
+  "mealPrice": "250",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "24",
+  "mealTypeID": 1,
+  "mealName": "Chinos Washing Alone",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "25",
+  "mealTypeID": 1,
+  "mealName": "Chinos Pressing Alone",
+  "mealPrice": "250",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "26",
+  "mealTypeID": 1,
+  "mealName": "Vest-T-Shirt Washing Alone",
+  "mealPrice": "250",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "27",
+  "mealTypeID": 1,
+  "mealName": "Vest-T-Shirt Pressing Alone",
+  "mealPrice": "150",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "28",
+  "mealTypeID": 1,
+  "mealName": "Overcoat Washing Alone",
+  "mealPrice": "750",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "29",
+  "mealTypeID": 1,
+  "mealName": "Overcoat Pressing Alone",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "30",
+  "mealTypeID": 1,
+  "mealName": "Blazer Washing Alone",
+  "mealPrice": "750",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "31",
+  "mealTypeID": 1,
+  "mealName": "Blazer Pressing Alone",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Gentle Men",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "32",
+  "mealTypeID": 2,
+  "mealName": "Jackets",
+  "mealPrice": "900",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "33",
+  "mealTypeID": 2,
+  "mealName": "Slack/Jeans/Pants",
+  "mealPrice": "750",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "34",
+  "mealTypeID": 2,
+  "mealName": "Dress",
+  "mealPrice": "1850",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "35",
+  "mealTypeID": 2,
+  "mealName": "Evening Dress",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "36",
+  "mealTypeID": 2,
+  "mealName": "Skirt",
+  "mealPrice": "600",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "37",
+  "mealTypeID": 2,
+  "mealName": "Jackets Washing Alone",
+  "mealPrice": "600",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "38",
+  "mealTypeID": 2,
+  "mealName": "Jackets Pressing Alone",
+  "mealPrice": "300",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "39",
+  "mealTypeID": 2,
+  "mealName": "Slack/Jeans/Pants Washing Alone",
+  "mealPrice": "500",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "40",
+  "mealTypeID": 2,
+  "mealName": "Slack/Jeans/Pants Pressing Alone",
+  "mealPrice": "250",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "41",
+  "mealTypeID": 2,
+  "mealName": "Dress Washing Alone",
+  "mealPrice": "1200",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "42",
+  "mealTypeID": 2,
+  "mealName": "Dress Pressing Alone",
+  "mealPrice": "650",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "43",
+  "mealTypeID": 2,
+  "mealName": "Evening Dress Washing Alone",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "44",
+  "mealTypeID": 2,
+  "mealName": "Evening Dress Pressing Alone",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "45",
+  "mealTypeID": 2,
+  "mealName": "Skirt Washing Alone",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "46",
+  "mealTypeID": 2,
+  "mealName": "Skirt Pressing Alone",
+  "mealPrice": "250",
+  "mealQt": 1,
+  "mealType": "Ladies",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "47",
+  "mealTypeID": 3,
+  "mealName": "Bath Towel",
+  "mealPrice": "650",
+  "mealQt": 1,
+  "mealType": "Towels",
+  "categoryID": 3,
+  "category": ""
+},
+{
+  "_id": "48",
+  "mealTypeID": 3,
+  "mealName": "Bath Towel Small",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Towels",
+  "categoryID": 3,
+  "category": ""
+},
+{
+  "_id": "49",
+  "mealTypeID": 3,
+  "mealName": "Face Towel",
+  "mealPrice": "100",
+  "mealQt": 1,
+  "mealType": "Towels",
+  "categoryID": 3,
+  "category": ""
+},
+{
+  "_id": "50",
+  "mealTypeID": 4,
+  "mealName": "Duvet Cover",
+  "mealPrice": "1600",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": "51",
+  "mealTypeID": 4,
+  "mealName": "Floor Mat",
+  "mealPrice": "1400",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": "52",
+  "mealTypeID": 4,
+  "mealName": "Bed Sheet",
+  "mealPrice": "800",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": "53",
+  "mealTypeID": 4,
+  "mealName": "Duvet Cover Washing Alone",
+  "mealPrice": "1050",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": "54",
+  "mealTypeID": 4,
+  "mealName": "Duvet Cover Pressing Alone",
+  "mealPrice": "550",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": "55",
+  "mealTypeID": 4,
+  "mealName": "Bed Sheet Washing Alone",
+  "mealPrice": "450",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": "56",
+  "mealTypeID": 4,
+  "mealName": "Bed Sheet Pressing Alone",
+  "mealPrice": "350",
+  "mealQt": 1,
+  "mealType": "Bed Covers",
+  "categoryID": 4,
+  "category": ""
+}]

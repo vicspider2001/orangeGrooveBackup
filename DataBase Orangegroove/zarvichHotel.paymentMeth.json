@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "666a8b3a96de5cfef105f15b"
+  },
+  "id": "1",
+  "method": "Cash"
+},
+{
+  "_id": {
+    "$oid": "666a8b3a96de5cfef105f15c"
+  },
+  "id": "2",
+  "method": "POS"
+},
+{
+  "_id": {
+    "$oid": "666a8b3a96de5cfef105f15d"
+  },
+  "id": "3",
+  "method": "Transfer"
+},
+{
+  "_id": {
+    "$oid": "666a8b3a96de5cfef105f15e"
+  },
+  "id": "4",
+  "method": "Complimentary"
+},
+{
+  "_id": {
+    "$oid": "666a8b3a96de5cfef105f15f"
+  },
+  "id": "5",
+  "method": "Credit"
+}]

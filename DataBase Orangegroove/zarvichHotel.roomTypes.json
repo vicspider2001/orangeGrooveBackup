@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "666a8c5996de5cfef105f170"
+  },
+  "typeID": "5000",
+  "roomType": "Add New"
+},
+{
+  "_id": "686",
+  "typeID": "1",
+  "roomType": "Orange Standard"
+},
+{
+  "_id": "3019",
+  "typeID": "2",
+  "roomType": "Orange Studio"
+},
+{
+  "_id": "7971",
+  "typeID": "3",
+  "roomType": "Superior Double"
+},
+{
+  "_id": "4624",
+  "typeID": "4",
+  "roomType": "Orange Suite"
+}]

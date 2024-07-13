@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc982"
+  },
+  "catgoryID": "10001",
+  "categoryName": "Perishable food Store",
+  "categoryCode": "8000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc983"
+  },
+  "catgoryID": "10002",
+  "categoryName": "Frozen Store",
+  "categoryCode": "9000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc984"
+  },
+  "catgoryID": "10003",
+  "categoryName": "Dry Store (Non Perishable Food)",
+  "categoryCode": "10000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc985"
+  },
+  "catgoryID": "10004",
+  "categoryName": "Drink Store",
+  "categoryCode": "11000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc986"
+  },
+  "catgoryID": "10005",
+  "categoryName": "Linen Store",
+  "categoryCode": "12000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc987"
+  },
+  "catgoryID": "10006",
+  "categoryName": "Stationery Store",
+  "categoryCode": "13000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc988"
+  },
+  "catgoryID": "10007",
+  "categoryName": "Maintenance Store",
+  "categoryCode": "14000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc989"
+  },
+  "catgoryID": "10008",
+  "categoryName": "Audio-Video Store",
+  "categoryCode": "15000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc98a"
+  },
+  "catgoryID": "10009",
+  "categoryName": "F and B Store",
+  "categoryCode": "16000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc98b"
+  },
+  "catgoryID": "10010",
+  "categoryName": "Housekeeping Store",
+  "categoryCode": "17000"
+},
+{
+  "_id": {
+    "$oid": "63dbaeba30e6461de0bbc98c"
+  },
+  "catgoryID": "10011",
+  "categoryName": "Oil and Gas Store",
+  "categoryCode": "18000"
+},
+{
+  "_id": "7534",
+  "catgoryID": "10012",
+  "categoryName": "Restaurant ",
+  "categoryCode": "118000"
+},
+{
+  "_id": "384",
+  "catgoryID": "10013",
+  "categoryName": "Provision Store",
+  "categoryCode": "218000"
+}]

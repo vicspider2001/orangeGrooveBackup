@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "666a88d196de5cfef105f0eb"
+  },
+  "name": "Victor A",
+  "username": "victor",
+  "password": "1977"
+},
+{
+  "_id": {
+    "$oid": "666a88d196de5cfef105f0ec"
+  },
+  "refID": "33179",
+  "name": "KOLA",
+  "username": "KOLA",
+  "password": "1005",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dc5b1610c20dd2bb40b3c"
+  },
+  "refID": "622724",
+  "name": "IBRAHIM ABDULLAHI",
+  "username": "IBRAHIM",
+  "password": "6464",
+  "department": "Billing"
+},
+{
+  "_id": {
+    "$oid": "666dc70e610c20dd2bb40b46"
+  },
+  "refID": "762017",
+  "name": "BARAKA",
+  "username": "BARAKA",
+  "password": "2124",
+  "department": "Billing"
+},
+{
+  "_id": {
+    "$oid": "666dc8c3610c20dd2bb40b50"
+  },
+  "refID": "615467",
+  "name": "VICTORIA",
+  "username": "VICTORIA",
+  "password": "2222",
+  "department": "Billing"
+},
+{
+  "_id": {
+    "$oid": "666dcbae610c20dd2bb40b5c"
+  },
+  "refID": "238805",
+  "name": "JOHNSON",
+  "username": "GM",
+  "password": "ATTAMA",
+  "department": "Billing"
+}]

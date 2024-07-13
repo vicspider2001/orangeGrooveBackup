@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "666a8c0496de5cfef105f168"
+  },
+  "name": "Victor A",
+  "username": "victor",
+  "password": "1977"
+},
+{
+  "_id": {
+    "$oid": "666a8c0496de5cfef105f169"
+  },
+  "refID": "33179",
+  "name": "KOLA",
+  "username": "KOLA",
+  "password": "1005",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dadb2610c20dd2bb40b33"
+  },
+  "refID": "307402",
+  "name": "TINA MICHAEL",
+  "username": "TINA",
+  "password": "2486",
+  "department": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "666daf31610c20dd2bb40b34"
+  },
+  "refID": "539751",
+  "name": "MARY SUNDAY",
+  "username": "MARY",
+  "password": "1996",
+  "department": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "666dc567610c20dd2bb40b36"
+  },
+  "refID": "938987",
+  "name": "JONATHAN HOSEA",
+  "username": "JONATHAN",
+  "password": "1991",
+  "department": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "666dc5b1610c20dd2bb40b3f"
+  },
+  "refID": "622724",
+  "name": "IBRAHIM ABDULLAHI",
+  "username": "IBRAHIM",
+  "password": "6464",
+  "department": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "666dc70e610c20dd2bb40b49"
+  },
+  "refID": "762017",
+  "name": "BARAKA",
+  "username": "BARAKA",
+  "password": "2124",
+  "department": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "666dc8c3610c20dd2bb40b53"
+  },
+  "refID": "615467",
+  "name": "VICTORIA",
+  "username": "VICTORIA",
+  "password": "2222",
+  "department": "Restaurant"
+},
+{
+  "_id": {
+    "$oid": "666dcbae610c20dd2bb40b5f"
+  },
+  "refID": "238805",
+  "name": "JOHNSON",
+  "username": "GM",
+  "password": "ATTAMA",
+  "department": "Restaurant"
+}]

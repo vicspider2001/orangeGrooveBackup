@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "666a889d96de5cfef105f0e6"
+  },
+  "name": "Victor A",
+  "username": "victor",
+  "password": "1977"
+},
+{
+  "_id": {
+    "$oid": "666a889d96de5cfef105f0e7"
+  },
+  "refID": "33179",
+  "name": "KOLA",
+  "username": "KOLA",
+  "password": "1005",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dc5b0610c20dd2bb40b37"
+  },
+  "refID": "622724",
+  "name": "IBRAHIM ABDULLAHI",
+  "username": "IBRAHIM",
+  "password": "6464",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dc70e610c20dd2bb40b41"
+  },
+  "refID": "762017",
+  "name": "BARAKA",
+  "username": "BARAKA",
+  "password": "2124",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dc8c3610c20dd2bb40b4b"
+  },
+  "refID": "615467",
+  "name": "VICTORIA",
+  "username": "VICTORIA",
+  "password": "2222",
+  "department": "Admin"
+},
+{
+  "_id": {
+    "$oid": "666dcbae610c20dd2bb40b57"
+  },
+  "refID": "238805",
+  "name": "JOHNSON",
+  "username": "GM",
+  "password": "ATTAMA",
+  "department": "Admin"
+}]

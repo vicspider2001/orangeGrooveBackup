@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6687db7e610c20dd2bb40cf9"
+  },
+  "phone": "07038358614",
+  "date": "Jul 05 2024",
+  "Amount": -47853,
+  "description": "Bill Settlement",
+  "CityLedgerCode": "30288648",
+  "roomNumbers": "105",
+  "user": "VICTORIA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6687dc74610c20dd2bb40cfb"
+  },
+  "phone": "07038358614",
+  "date": "Jul 05 2024",
+  "Amount": -47853,
+  "description": "Bill Settlement",
+  "CityLedgerCode": "46194736",
+  "roomNumbers": "104",
+  "user": "VICTORIA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6687dca6610c20dd2bb40cfd"
+  },
+  "phone": "07038358614",
+  "date": "Jul 05 2024",
+  "Amount": -47853,
+  "description": "Bill Settlement",
+  "CityLedgerCode": "13529406",
+  "roomNumbers": "103",
+  "user": "VICTORIA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6687dcc0610c20dd2bb40cff"
+  },
+  "phone": "07038358614",
+  "date": "Jul 05 2024",
+  "Amount": -51534,
+  "description": "Bill Settlement",
+  "CityLedgerCode": "26346880",
+  "roomNumbers": "102",
+  "user": "VICTORIA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6687dcfe610c20dd2bb40d01"
+  },
+  "phone": "07038358614",
+  "date": "Jul 05 2024",
+  "Amount": -47853,
+  "description": "Bill Settlement",
+  "CityLedgerCode": "73044328",
+  "roomNumbers": "101",
+  "user": "VICTORIA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668a8ca2610c20dd2bb40d28"
+  },
+  "phone": "08130808063",
+  "date": "Jul 07 2024",
+  "Amount": -38282,
+  "description": "Bill Settlement",
+  "CityLedgerCode": "864800",
+  "roomNumbers": "101",
+  "user": "IBRAHIM ABDULLAHI",
+  "shift": "Night Shift"
+}]

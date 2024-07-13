@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "66863516610c20dd2bb40ce2"
+  },
+  "fname": "LAWAL",
+  "lname": "YAHAYA",
+  "group": "",
+  "refID": "37977716",
+  "arrivalDate": "2024-07-02T23:00:00.000Z",
+  "departureDate": "2024-07-03T23:00:00.000Z",
+  "roomNumbers": "206",
+  "dailyRate": "42945",
+  "tranDate": "2024-07-04T05:37:23.688Z",
+  "description": "Daily Room Rate",
+  "searchKey": "GuestBill",
+  "roomtypeName": "Orange Studio"
+},
+{
+  "_id": {
+    "$oid": "66863569610c20dd2bb40ce4"
+  },
+  "fname": "LAWAL",
+  "lname": "YAHAYA",
+  "group": "",
+  "refID": "37977716",
+  "arrivalDate": "2024-07-02T23:00:00.000Z",
+  "departureDate": "2024-07-03T23:00:00.000Z",
+  "roomNumbers": "206",
+  "dailyRate": "42945",
+  "tranDate": "2024-07-04T05:38:46.639Z",
+  "description": "Daily Room Rate",
+  "searchKey": "GuestBill",
+  "roomtypeName": "Orange Studio"
+},
+{
+  "_id": {
+    "$oid": "668c6a9a610c20dd2bb40d4b"
+  },
+  "fname": "Limau",
+  "lname": "Musa",
+  "group": "",
+  "refID": "6952414",
+  "arrivalDate": "2024-07-07T23:00:00.000Z",
+  "departureDate": "2024-07-08T23:00:00.000Z",
+  "roomNumbers": "203",
+  "dailyRate": "38650",
+  "tranDate": "2024-07-08T22:39:16.918Z",
+  "description": "Daily Room Rate",
+  "searchKey": "GuestBill",
+  "roomtypeName": "Orange Studio"
+},
+{
+  "_id": {
+    "$oid": "668d53c8610c20dd2bb40d57"
+  },
+  "fname": "Sadisu",
+  "lname": "Tahir",
+  "group": "",
+  "refID": "31414805",
+  "arrivalDate": "2024-07-08T23:00:00.000Z",
+  "departureDate": "2024-07-09T23:00:00.000Z",
+  "roomNumbers": "215",
+  "dailyRate": "38650",
+  "tranDate": "2024-07-09T15:14:11.332Z",
+  "description": "Daily Room Rate",
+  "searchKey": "GuestBill",
+  "roomtypeName": "Orange Studio"
+},
+{
+  "_id": {
+    "$oid": "668d53c8610c20dd2bb40d58"
+  },
+  "fname": "Sadiq",
+  "lname": "Abubakar",
+  "group": "",
+  "refID": "18251562",
+  "arrivalDate": "2024-07-08T23:00:00.000Z",
+  "departureDate": "2024-07-09T23:00:00.000Z",
+  "roomNumbers": "204",
+  "dailyRate": "47853",
+  "tranDate": "2024-07-09T15:14:11.333Z",
+  "description": "Daily Room Rate",
+  "searchKey": "GuestBill",
+  "roomtypeName": "Orange Standard"
+}]

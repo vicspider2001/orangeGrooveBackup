@@ -1,0 +1,1344 @@
+[{
+  "_id": "1",
+  "mealTypeID": 1,
+  "mealName": "Irish Potatoe Chips",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "2",
+  "mealTypeID": 1,
+  "mealName": "French Fries",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "3",
+  "mealTypeID": 1,
+  "mealName": "Boiled Potatoe",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "4",
+  "mealTypeID": 1,
+  "mealName": "Roasted Potatoe",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "5",
+  "mealTypeID": 1,
+  "mealName": "Pasley Potatoe",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "6",
+  "mealTypeID": 1,
+  "mealName": "Potatoe Halahala",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "7",
+  "mealTypeID": 1,
+  "mealName": "Chattan Potatoe",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Potatoe Dish",
+  "categoryID": 1,
+  "category": ""
+},
+{
+  "_id": "8",
+  "mealTypeID": 2,
+  "mealName": "Boiled Yam",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Yam Dish",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "9",
+  "mealTypeID": 2,
+  "mealName": "Fried Yam",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Yam Dish",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "10",
+  "mealTypeID": 2,
+  "mealName": "Moon Light Yam",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Yam Dish",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "11",
+  "mealTypeID": 2,
+  "mealName": "Yam Bell",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Yam Dish",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": "12",
+  "mealTypeID": 2,
+  "mealName": "Yam Pottage",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Yam Dish",
+  "categoryID": 2,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9d03610c20dd2bb40ad4"
+  },
+  "mealTypeID": 3,
+  "mealName": "Boiled Plantain",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Plantain Dish",
+  "categoryID": 3,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9d1a610c20dd2bb40ad5"
+  },
+  "mealTypeID": 3,
+  "mealName": "Fried Plantain",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Plantain Dish",
+  "categoryID": 3,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9d31610c20dd2bb40ad6"
+  },
+  "mealTypeID": 3,
+  "mealName": "Roasted Plantain",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Plantain Dish",
+  "categoryID": 3,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9da9610c20dd2bb40ad7"
+  },
+  "mealTypeID": 4,
+  "mealName": "Indomie(Steamed)",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Noodles Dish",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9dbc610c20dd2bb40ad8"
+  },
+  "mealTypeID": 4,
+  "mealName": "Fried Indomie",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Noodles Dish",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9dd6610c20dd2bb40ad9"
+  },
+  "mealTypeID": 4,
+  "mealName": "Veg. Indomie",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Noodles Dish",
+  "categoryID": 4,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e0c610c20dd2bb40ada"
+  },
+  "mealTypeID": 5,
+  "mealName": "Jollof Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e1e610c20dd2bb40adb"
+  },
+  "mealTypeID": 5,
+  "mealName": "Coconut Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e2f610c20dd2bb40adc"
+  },
+  "mealTypeID": 5,
+  "mealName": "Fried Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e45610c20dd2bb40add"
+  },
+  "mealTypeID": 5,
+  "mealName": "Veg. Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e55610c20dd2bb40ade"
+  },
+  "mealTypeID": 5,
+  "mealName": "Spicy Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e6a610c20dd2bb40adf"
+  },
+  "mealTypeID": 5,
+  "mealName": "Chinese Fried Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9e98610c20dd2bb40ae0"
+  },
+  "mealTypeID": 5,
+  "mealName": "Stir Fry Basmatic Rice ",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9eab610c20dd2bb40ae1"
+  },
+  "mealTypeID": 5,
+  "mealName": "White Rice",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Rice Dish",
+  "categoryID": 5,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9ecd610c20dd2bb40ae2"
+  },
+  "mealTypeID": 6,
+  "mealName": "Couscous",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9eee610c20dd2bb40ae3"
+  },
+  "mealTypeID": 6,
+  "mealName": "Jollof Spaghetti",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9f03610c20dd2bb40ae4"
+  },
+  "mealTypeID": 6,
+  "mealName": "Stir Fry Pasta",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9f23610c20dd2bb40ae5"
+  },
+  "mealTypeID": 6,
+  "mealName": "Spaghetti Bolognaise",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9f45610c20dd2bb40ae6"
+  },
+  "mealTypeID": 6,
+  "mealName": "Spaghetti Napolitan",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9f5b610c20dd2bb40ae7"
+  },
+  "mealTypeID": 6,
+  "mealName": "Veg. Spaghetti",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9f75610c20dd2bb40ae8"
+  },
+  "mealTypeID": 6,
+  "mealName": "Saute Garlic Spaghetti",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Pasta Dish",
+  "categoryID": 6,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9fa1610c20dd2bb40ae9"
+  },
+  "mealTypeID": 7,
+  "mealName": "Chicken Caserole",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9fb7610c20dd2bb40aea"
+  },
+  "mealTypeID": 7,
+  "mealName": "Chicken Peppersoup",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9fcc610c20dd2bb40aeb"
+  },
+  "mealTypeID": 7,
+  "mealName": "Chicken Escalope",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9fde610c20dd2bb40aec"
+  },
+  "mealTypeID": 7,
+  "mealName": "Chicken Kebab",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666d9ff2610c20dd2bb40aed"
+  },
+  "mealTypeID": 7,
+  "mealName": "Chicken Nugget",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da007610c20dd2bb40aee"
+  },
+  "mealTypeID": 7,
+  "mealName": "Pan Grilled Chicken",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da02c610c20dd2bb40aef"
+  },
+  "mealTypeID": 7,
+  "mealName": "Kentucky Chicken",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Chicken Dish",
+  "categoryID": 7,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da051610c20dd2bb40af0"
+  },
+  "mealTypeID": 8,
+  "mealName": "Beef Caserole",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Beef Dish",
+  "categoryID": 8,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da060610c20dd2bb40af1"
+  },
+  "mealTypeID": 8,
+  "mealName": "Beef Kebab",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Beef Dish",
+  "categoryID": 8,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da072610c20dd2bb40af2"
+  },
+  "mealTypeID": 8,
+  "mealName": "Shredded Beef",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Beef Dish",
+  "categoryID": 8,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da09b610c20dd2bb40af3"
+  },
+  "mealTypeID": 8,
+  "mealName": "Beef Galosh",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Beef Dish",
+  "categoryID": 8,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da0ae610c20dd2bb40af4"
+  },
+  "mealTypeID": 8,
+  "mealName": "Beef Escalope",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Beef Dish",
+  "categoryID": 8,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da0ea610c20dd2bb40af5"
+  },
+  "mealTypeID": 9,
+  "mealName": "Vegetable Soup",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da0fb610c20dd2bb40af6"
+  },
+  "mealTypeID": 9,
+  "mealName": "Ogbono Soup",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da10b610c20dd2bb40af7"
+  },
+  "mealTypeID": 9,
+  "mealName": "Egusi Soup",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da128610c20dd2bb40af8"
+  },
+  "mealTypeID": 9,
+  "mealName": "Bitterleaf Soup",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da13e610c20dd2bb40af9"
+  },
+  "mealTypeID": 9,
+  "mealName": "Okro Soup",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da154610c20dd2bb40afa"
+  },
+  "mealTypeID": 9,
+  "mealName": "Groundnut Soup",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da166610c20dd2bb40afb"
+  },
+  "mealTypeID": 9,
+  "mealName": "Miyan Kuka",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Nigerian Soups",
+  "categoryID": 9,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da17f610c20dd2bb40afc"
+  },
+  "mealTypeID": 10,
+  "mealName": "Semovita",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da18a610c20dd2bb40afd"
+  },
+  "mealTypeID": 10,
+  "mealName": "Eba",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da19c610c20dd2bb40afe"
+  },
+  "mealTypeID": 10,
+  "mealName": "Tuwon Shikafa",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da1a8610c20dd2bb40aff"
+  },
+  "mealTypeID": 10,
+  "mealName": "Amala",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da1b9610c20dd2bb40b00"
+  },
+  "mealTypeID": 10,
+  "mealName": "Wheat Flour",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da1c9610c20dd2bb40b01"
+  },
+  "mealTypeID": 10,
+  "mealName": "Plantain Flour",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da1d7610c20dd2bb40b02"
+  },
+  "mealTypeID": 10,
+  "mealName": "Pando Yam",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Swallow Dish",
+  "categoryID": 10,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da1f0610c20dd2bb40b03"
+  },
+  "mealTypeID": 11,
+  "mealName": "Grilled Fish",
+  "mealPrice": "3000",
+  "mealQt": 1,
+  "mealType": "Fish Dish",
+  "categoryID": 11,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da202610c20dd2bb40b04"
+  },
+  "mealTypeID": 11,
+  "mealName": "Fish Peppersoup",
+  "mealPrice": "3000",
+  "mealQt": 1,
+  "mealType": "Fish Dish",
+  "categoryID": 11,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da21d610c20dd2bb40b05"
+  },
+  "mealTypeID": 11,
+  "mealName": "Fish in Batter",
+  "mealPrice": "3000",
+  "mealQt": 1,
+  "mealType": "Fish Dish",
+  "categoryID": 11,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da22d610c20dd2bb40b06"
+  },
+  "mealTypeID": 11,
+  "mealName": "Fish Finger",
+  "mealPrice": "3000",
+  "mealQt": 1,
+  "mealType": "Fish Dish",
+  "categoryID": 11,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da23e610c20dd2bb40b07"
+  },
+  "mealTypeID": 11,
+  "mealName": "Coated Fish",
+  "mealPrice": "3000",
+  "mealQt": 1,
+  "mealType": "Fish Dish",
+  "categoryID": 11,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da25c610c20dd2bb40b08"
+  },
+  "mealTypeID": 11,
+  "mealName": "Fillet Fish(Grilled)",
+  "mealPrice": "3000",
+  "mealQt": 1,
+  "mealType": "Fish Dish",
+  "categoryID": 11,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da27e610c20dd2bb40b09"
+  },
+  "mealTypeID": 12,
+  "mealName": "Veg. Salad",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da29d610c20dd2bb40b0a"
+  },
+  "mealTypeID": 12,
+  "mealName": "Coleslaw Salad ",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da2b1610c20dd2bb40b0b"
+  },
+  "mealTypeID": 12,
+  "mealName": "Russian Salad",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da2c7610c20dd2bb40b0c"
+  },
+  "mealTypeID": 12,
+  "mealName": "Potato Salad",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da2ed610c20dd2bb40b0d"
+  },
+  "mealTypeID": 12,
+  "mealName": "Ceaser Salad",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da2fe610c20dd2bb40b0e"
+  },
+  "mealTypeID": 12,
+  "mealName": "Chef Salad",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da320610c20dd2bb40b0f"
+  },
+  "mealTypeID": 12,
+  "mealName": "Macaroni Salad",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Salad Dish",
+  "categoryID": 12,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da340610c20dd2bb40b10"
+  },
+  "mealTypeID": 13,
+  "mealName": "Custard",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Puding",
+  "categoryID": 13,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da362610c20dd2bb40b11"
+  },
+  "mealTypeID": 13,
+  "mealName": "Quake out ",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Puding",
+  "categoryID": 13,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da36f610c20dd2bb40b12"
+  },
+  "mealTypeID": 13,
+  "mealName": "Akamu",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Puding",
+  "categoryID": 13,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da394610c20dd2bb40b13"
+  },
+  "mealTypeID": 13,
+  "mealName": "Kunu Tsamiya",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Puding",
+  "categoryID": 13,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da3af610c20dd2bb40b14"
+  },
+  "mealTypeID": 13,
+  "mealName": "Kunu Tamba",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Puding",
+  "categoryID": 13,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da3c5610c20dd2bb40b15"
+  },
+  "mealTypeID": 14,
+  "mealName": "Fried Egg",
+  "mealPrice": "1800",
+  "mealQt": 1,
+  "mealType": "Egg Dish",
+  "categoryID": 14,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da3f0610c20dd2bb40b16"
+  },
+  "mealTypeID": 14,
+  "mealName": "Veg. Omelet",
+  "mealPrice": "1800",
+  "mealQt": 1,
+  "mealType": "Egg Dish",
+  "categoryID": 14,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da404610c20dd2bb40b17"
+  },
+  "mealTypeID": 14,
+  "mealName": "Spanish Omelet",
+  "mealPrice": "1800",
+  "mealQt": 1,
+  "mealType": "Egg Dish",
+  "categoryID": 14,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da414610c20dd2bb40b18"
+  },
+  "mealTypeID": 14,
+  "mealName": "Plain Omelet",
+  "mealPrice": "1800",
+  "mealQt": 1,
+  "mealType": "Egg Dish",
+  "categoryID": 14,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da42a610c20dd2bb40b19"
+  },
+  "mealTypeID": 14,
+  "mealName": "Pepper Omelet",
+  "mealPrice": "1800",
+  "mealQt": 1,
+  "mealType": "Egg Dish",
+  "categoryID": 14,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da44d610c20dd2bb40b1a"
+  },
+  "mealTypeID": 15,
+  "mealName": "Lipton Tea",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Tea Pots",
+  "categoryID": 15,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da465610c20dd2bb40b1b"
+  },
+  "mealTypeID": 15,
+  "mealName": "Green Tea",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Tea Pots",
+  "categoryID": 15,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da472610c20dd2bb40b1c"
+  },
+  "mealTypeID": 15,
+  "mealName": "Ginger Tea",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Tea Pots",
+  "categoryID": 15,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da4a4610c20dd2bb40b1d"
+  },
+  "mealTypeID": 15,
+  "mealName": "Coffee 3in1",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Tea Pots",
+  "categoryID": 15,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da4bc610c20dd2bb40b1e"
+  },
+  "mealTypeID": 15,
+  "mealName": "Milo Tea",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Tea Pots",
+  "categoryID": 15,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da4dd610c20dd2bb40b1f"
+  },
+  "mealTypeID": 15,
+  "mealName": "Bournvita Tea",
+  "mealPrice": "1000",
+  "mealQt": 1,
+  "mealType": "Tea Pots",
+  "categoryID": 15,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da518610c20dd2bb40b20"
+  },
+  "mealTypeID": 16,
+  "mealName": "Sandwich Club ",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Sandwich Dish",
+  "categoryID": 16,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da52e610c20dd2bb40b21"
+  },
+  "mealTypeID": 16,
+  "mealName": "Chicken Sandwich",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Sandwich Dish",
+  "categoryID": 16,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da543610c20dd2bb40b22"
+  },
+  "mealTypeID": 16,
+  "mealName": "Steak Sandwich",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Sandwich Dish",
+  "categoryID": 16,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da556610c20dd2bb40b23"
+  },
+  "mealTypeID": 16,
+  "mealName": "Veg. Sandwich",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Sandwich Dish",
+  "categoryID": 16,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da569610c20dd2bb40b24"
+  },
+  "mealTypeID": 16,
+  "mealName": "Sausage Sandwich",
+  "mealPrice": "2500",
+  "mealQt": 1,
+  "mealType": "Sandwich Dish",
+  "categoryID": 16,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da585610c20dd2bb40b25"
+  },
+  "mealTypeID": 17,
+  "mealName": "Chicken Sausage(Grilled)",
+  "mealPrice": "1600",
+  "mealQt": 1,
+  "mealType": "Sausage Dish",
+  "categoryID": 17,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da59a610c20dd2bb40b26"
+  },
+  "mealTypeID": 17,
+  "mealName": "Beef Sausage(Grilled )",
+  "mealPrice": "1600",
+  "mealQt": 1,
+  "mealType": "Sausage Dish",
+  "categoryID": 17,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da64f610c20dd2bb40b27"
+  },
+  "mealTypeID": 18,
+  "mealName": "Fresh Bread",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Bread",
+  "categoryID": 18,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da666610c20dd2bb40b28"
+  },
+  "mealTypeID": 18,
+  "mealName": "Toast Bread",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Bread",
+  "categoryID": 18,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da675610c20dd2bb40b29"
+  },
+  "mealTypeID": 18,
+  "mealName": "Garlic Bread",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Bread",
+  "categoryID": 18,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da68d610c20dd2bb40b2a"
+  },
+  "mealTypeID": 18,
+  "mealName": "Bread/Butter",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Bread",
+  "categoryID": 18,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da6b6610c20dd2bb40b2b"
+  },
+  "mealTypeID": 19,
+  "mealName": "Complete English Breakfast",
+  "mealPrice": "7000",
+  "mealQt": 1,
+  "mealType": "Complete English Breakfast",
+  "categoryID": 19,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da6e1610c20dd2bb40b2c"
+  },
+  "mealTypeID": 20,
+  "mealName": "Chicken Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da782610c20dd2bb40b2d"
+  },
+  "mealTypeID": 20,
+  "mealName": "Carrot Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da79c610c20dd2bb40b2e"
+  },
+  "mealTypeID": 20,
+  "mealName": "Cream of Onion Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da7ab610c20dd2bb40b2f"
+  },
+  "mealTypeID": 20,
+  "mealName": "Tomato Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da7f0610c20dd2bb40b30"
+  },
+  "mealTypeID": 20,
+  "mealName": "Minstroai Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da808610c20dd2bb40b31"
+  },
+  "mealTypeID": 20,
+  "mealName": "Mushroom Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666da82f610c20dd2bb40b32"
+  },
+  "mealTypeID": 20,
+  "mealName": "Clear Vegetable Soup",
+  "mealPrice": "2000",
+  "mealQt": 1,
+  "mealType": "Continental Soups",
+  "categoryID": 20,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666dce9a610c20dd2bb40b61"
+  },
+  "mealTypeID": 21,
+  "mealName": "Fanta",
+  "mealPrice": "700",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666dcead610c20dd2bb40b62"
+  },
+  "mealTypeID": 21,
+  "mealName": "Coke",
+  "mealPrice": "700",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666dcebf610c20dd2bb40b63"
+  },
+  "mealTypeID": 21,
+  "mealName": "Water",
+  "mealPrice": "400",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "666dced3610c20dd2bb40b64"
+  },
+  "mealTypeID": 21,
+  "mealName": "Chapman",
+  "mealPrice": "550",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "668fd37fa65ee059cf5dd716"
+  },
+  "mealTypeID": 21,
+  "mealName": "Sprite",
+  "mealPrice": "700",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "668fd399a65ee059cf5dd717"
+  },
+  "mealTypeID": 21,
+  "mealName": "Maltina Can",
+  "mealPrice": "800",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+},
+{
+  "_id": {
+    "$oid": "668fd3afa65ee059cf5dd718"
+  },
+  "mealTypeID": 21,
+  "mealName": "Chi Exotic",
+  "mealPrice": "1500",
+  "mealQt": 1,
+  "mealType": "Drinks",
+  "categoryID": 21,
+  "category": ""
+}]

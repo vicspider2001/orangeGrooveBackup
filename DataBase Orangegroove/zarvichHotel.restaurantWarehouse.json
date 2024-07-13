@@ -1,0 +1,2933 @@
+[{
+  "_id": "6670418e610c20dd2bb40b73",
+  "docketNum": "Rest6980",
+  "date": "Jun 17 2024",
+  "cost": "1200",
+  "CashAmount": "1200",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 6101
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6670b4a0610c20dd2bb40b7a",
+  "docketNum": "Rest9666",
+  "date": "Jun 17 2024",
+  "cost": "4500",
+  "TransferAmount": "4500",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "2",
+      "meal": "French Fries",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 1523
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 6388
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6670b4e7610c20dd2bb40b7c",
+  "docketNum": "Rest5575",
+  "date": "Jun 17 2024",
+  "cost": "400",
+  "TransferAmount": "400",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 9803
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6670c886610c20dd2bb40b87",
+  "docketNum": "Rest7476",
+  "date": "Jun 17 2024",
+  "cost": "34050",
+  "TransferAmount": "34050",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 4,
+      "tranID": 5570
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 4,
+      "tranID": 9745
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 8870
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 3766
+    },
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 2,
+      "tranID": 473
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 7170
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 3241
+    },
+    {
+      "id": "666dce9a610c20dd2bb40b61",
+      "meal": "Fanta",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 1170
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 8508
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 721
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6671c223610c20dd2bb40ba7",
+  "docketNum": "Rest535",
+  "date": "Jun 18 2024",
+  "cost": "800",
+  "TransferAmount": "800",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 3297
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6671dd6b610c20dd2bb40ba9",
+  "docketNum": "Rest966",
+  "date": "Jun 18 2024",
+  "cost": "1200",
+  "TransferAmount": "1200",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 8160
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6671f956610c20dd2bb40bad",
+  "docketNum": "Rest3397",
+  "date": "Jun 18 2024",
+  "cost": "6300",
+  "TransferAmount": "6300",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 4637
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 5257
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 2787
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66726e1d610c20dd2bb40bb0",
+  "docketNum": "Rest1180",
+  "date": "Jun 18 2024",
+  "cost": "1450",
+  "CashAmount": "1450",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 5603
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 818
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6672718f610c20dd2bb40bb3",
+  "docketNum": "Rest1096",
+  "date": "Jun 18 2024",
+  "cost": "4500",
+  "POSAmount": "4500",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 3280
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 4839
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667170f1610c20dd2bb40b8d",
+  "docketNum": "Rest4293",
+  "date": "Jun 18 2024",
+  "cost": "15200",
+  "POSAmount": "15200",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 4,
+      "tranID": 4227
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 4,
+      "tranID": 8085
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6671712c610c20dd2bb40b8f",
+  "docketNum": "Rest1388",
+  "date": "Jun 18 2024",
+  "cost": "1600",
+  "POSAmount": "1600",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 4,
+      "tranID": 4216
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66719f4c610c20dd2bb40b9c",
+  "docketNum": "Rest9677",
+  "date": "Jun 18 2024",
+  "cost": "6600",
+  "POSAmount": "6600",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 859
+    },
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 2,
+      "tranID": 3573
+    },
+    {
+      "id": "666d9eab610c20dd2bb40ae1",
+      "meal": "White Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 3291
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 7102
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66719f83610c20dd2bb40b9e",
+  "docketNum": "Rest2856",
+  "date": "Jun 18 2024",
+  "cost": "2000",
+  "CashAmount": "2000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 5,
+      "tranID": 9425
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6671a30d610c20dd2bb40ba5",
+  "docketNum": "Rest2546",
+  "date": "Jun 18 2024",
+  "cost": "3800",
+  "CashAmount": "3800",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9877
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 1774
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66732701610c20dd2bb40bbc",
+  "docketNum": "Rest6123",
+  "date": "Jun 19 2024",
+  "cost": "4500",
+  "CashAmount": "4500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 6625
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9573
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66732742610c20dd2bb40bbe",
+  "docketNum": "Rest2213",
+  "date": "Jun 19 2024",
+  "cost": "400",
+  "CashAmount": "400",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 3457
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66734ed9610c20dd2bb40bc8",
+  "docketNum": "Rest2202",
+  "date": "Jun 19 2024",
+  "cost": "9800",
+  "POSAmount": "9800",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 3341
+    },
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 6420
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 5592
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 6380
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 9076
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66737768610c20dd2bb40bd2",
+  "docketNum": "Rest8164",
+  "date": "Jun 19 2024",
+  "cost": "20000",
+  "POSAmount": "20000",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 777
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 6339
+    },
+    {
+      "id": "9",
+      "meal": "Fried Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 3045
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 8568
+    },
+    {
+      "id": "666da3f0610c20dd2bb40b16",
+      "meal": "Veg. Omelet",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 4201
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 2682
+    },
+    {
+      "id": "9",
+      "meal": "Fried Yam",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 1304
+    },
+    {
+      "id": "666da3f0610c20dd2bb40b16",
+      "meal": "Veg. Omelet",
+      "mealPrice": "1800",
+      "qty": 2,
+      "tranID": 6281
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 1756
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6674a85f610c20dd2bb40bdd",
+  "docketNum": "Rest3584",
+  "date": "Jun 20 2024",
+  "cost": "1200",
+  "POSAmount": "1200",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 8313
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6674a8c7610c20dd2bb40be0",
+  "docketNum": "Rest3033",
+  "date": "Jun 20 2024",
+  "cost": "1450",
+  "POSAmount": "1450",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 9621
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 3398
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6674a904610c20dd2bb40be2",
+  "docketNum": "Rest9362",
+  "date": "Jun 20 2024",
+  "cost": "1200",
+  "CashAmount": "1200",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 6370
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6675e1dc610c20dd2bb40bf3",
+  "docketNum": "Rest7816",
+  "date": "Jun 21 2024",
+  "cost": "10300",
+  "POSAmount": "10300",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 8155
+    },
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 2524
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 7003
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 2642
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 5692
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 2595
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6675e32e610c20dd2bb40bf7",
+  "docketNum": "Rest9005",
+  "date": "Jun 21 2024",
+  "cost": "9400",
+  "CashAmount": "9400",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 5616
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 6550
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 7119
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66760bf8610c20dd2bb40bfd",
+  "docketNum": "Rest1623",
+  "date": "Jun 21 2024",
+  "cost": "14100",
+  "POSAmount": "14100",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 3273
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 2981
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 5144
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 3,
+      "tranID": 2758
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 4,
+      "tranID": 6583
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66761594610c20dd2bb40c07",
+  "docketNum": "Rest4748",
+  "date": "Jun 21 2024",
+  "cost": "26700",
+  "POSAmount": "26700",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 4248
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 2,
+      "tranID": 5567
+    },
+    {
+      "id": "9",
+      "meal": "Fried Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 4425
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9334
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 9928
+    },
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 7870
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 5618
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 2,
+      "tranID": 6763
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 3,
+      "tranID": 6812
+    }
+  ],
+  "group": "",
+  "user": "MARY SUNDAY",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6676acdf610c20dd2bb40c0d",
+  "docketNum": "Rest4830",
+  "date": "Jun 21 2024",
+  "cost": "8300",
+  "TransferAmount": "8300",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9f45610c20dd2bb40ae6",
+      "meal": "Spaghetti Napolitan",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 600
+    },
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 2174
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 4686
+    },
+    {
+      "id": "666da42a610c20dd2bb40b19",
+      "meal": "Pepper Omelet",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 3019
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6676b271610c20dd2bb40c10",
+  "docketNum": "Rest8269",
+  "date": "Jun 21 2024",
+  "cost": "5000",
+  "CashAmount": "5000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9599
+    },
+    {
+      "id": "666da202610c20dd2bb40b04",
+      "meal": "Fish Peppersoup",
+      "mealPrice": "3000",
+      "qty": 1,
+      "tranID": 4538
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6676f282610c20dd2bb40c15",
+  "docketNum": "Rest2944",
+  "date": "Jun 21 2024",
+  "cost": "11800",
+  "TransferAmount": "11800",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 5560
+    },
+    {
+      "id": "666da202610c20dd2bb40b04",
+      "meal": "Fish Peppersoup",
+      "mealPrice": "3000",
+      "qty": 2,
+      "tranID": 9236
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9364
+    },
+    {
+      "id": "666dce9a610c20dd2bb40b61",
+      "meal": "Fanta",
+      "mealPrice": "650",
+      "qty": 2,
+      "tranID": 9025
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66776181610c20dd2bb40c2b",
+  "docketNum": "Rest7093",
+  "date": "Jun 22 2024",
+  "cost": "400",
+  "CashAmount": "400",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 7846
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6678971d610c20dd2bb40c3e",
+  "docketNum": "Rest174",
+  "date": "Jun 23 2024",
+  "cost": "5000",
+  "CashAmount": "5000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 2653
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 9471
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 1694
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66784214610c20dd2bb40c31",
+  "docketNum": "Rest7122",
+  "date": "Jun 23 2024",
+  "cost": "13500",
+  "TransferAmount": "13500",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 3,
+      "tranID": 4522
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 3,
+      "tranID": 1783
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66784252610c20dd2bb40c33",
+  "docketNum": "Rest9731",
+  "date": "Jun 23 2024",
+  "cost": "1950",
+  "TransferAmount": "1950",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 3,
+      "tranID": 2024
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6679de03610c20dd2bb40c47",
+  "docketNum": "Rest9088",
+  "date": "Jun 24 2024",
+  "cost": "5500",
+  "CashAmount": "5500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 3261
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 8213
+    },
+    {
+      "id": "666da202610c20dd2bb40b04",
+      "meal": "Fish Peppersoup",
+      "mealPrice": "3000",
+      "qty": 1,
+      "tranID": 7227
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667bea61610c20dd2bb40c4d",
+  "docketNum": "Rest7757",
+  "date": "Jun 26 2024",
+  "cost": "1300",
+  "TransferAmount": "1300",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 2,
+      "tranID": 6685
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "667dc1fc610c20dd2bb40c58",
+  "docketNum": "Rest3904",
+  "date": "Jun 27 2024",
+  "cost": "5000",
+  "CashAmount": "5000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 6902
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 9677
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 5261
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667dc224610c20dd2bb40c5a",
+  "docketNum": "Rest9989",
+  "date": "Jun 27 2024",
+  "cost": "400",
+  "CashAmount": "400",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 8565
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667dc962610c20dd2bb40c5e",
+  "docketNum": "Rest9834",
+  "date": "Jun 27 2024",
+  "cost": "4900",
+  "POSAmount": "4900",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9373
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 3465
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 571
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667dccfa610c20dd2bb40c61",
+  "docketNum": "Rest8379",
+  "date": "Jun 27 2024",
+  "cost": "1300",
+  "POSAmount": "1300",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dce9a610c20dd2bb40b61",
+      "meal": "Fanta",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 3374
+    },
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 9935
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667f05a8610c20dd2bb40c6b",
+  "docketNum": "Rest1329",
+  "date": "Jun 28 2024",
+  "cost": "5500",
+  "CashAmount": "5500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9eab610c20dd2bb40ae1",
+      "meal": "White Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 229
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 3834
+    },
+    {
+      "id": "666da4bc610c20dd2bb40b1e",
+      "meal": "Milo Tea",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 6025
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667f2368610c20dd2bb40c71",
+  "docketNum": "Rest9977",
+  "date": "Jun 28 2024",
+  "cost": "2100",
+  "CashAmount": "2100",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 8001
+    },
+    {
+      "id": "666dce9a610c20dd2bb40b61",
+      "meal": "Fanta",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 2158
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 5350
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 6657
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667e9495610c20dd2bb40c65",
+  "docketNum": "Rest2612",
+  "date": "Jun 28 2024",
+  "cost": "3800",
+  "CashAmount": "3800",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "1",
+      "meal": "Irish Potatoe Chips",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 6289
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 9881
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66805246610c20dd2bb40c94",
+  "docketNum": "Rest23",
+  "date": "Jun 29 2024",
+  "cost": "22000",
+  "TransferAmount": "22000",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 2453
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 5849
+    },
+    {
+      "id": "9",
+      "meal": "Fried Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 2656
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 6205
+    },
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 9336
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 2,
+      "tranID": 2725
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 4,
+      "tranID": 3835
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66806684610c20dd2bb40c96",
+  "docketNum": "Rest8479",
+  "date": "Jun 29 2024",
+  "cost": "2000",
+  "CashAmount": "2000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8954
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6680959a610c20dd2bb40c9b",
+  "docketNum": "Rest1300",
+  "date": "Jun 29 2024",
+  "cost": "5000",
+  "CashAmount": "5000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9eab610c20dd2bb40ae1",
+      "meal": "White Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 5778
+    },
+    {
+      "id": "666da202610c20dd2bb40b04",
+      "meal": "Fish Peppersoup",
+      "mealPrice": "3000",
+      "qty": 1,
+      "tranID": 3720
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6680967a610c20dd2bb40ca1",
+  "docketNum": "Rest675",
+  "date": "Jun 29 2024",
+  "cost": "8400",
+  "POSAmount": "8400",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 4161
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 7146
+    },
+    {
+      "id": "2",
+      "meal": "French Fries",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8298
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 9655
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 8365
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668096ed610c20dd2bb40ca8",
+  "docketNum": "Rest9018",
+  "date": "Jun 29 2024",
+  "cost": "12250",
+  "CashAmount": "12250",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8657
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 5999
+    },
+    {
+      "id": "666d9eab610c20dd2bb40ae1",
+      "meal": "White Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8956
+    },
+    {
+      "id": "666d9fde610c20dd2bb40aec",
+      "meal": "Chicken Kebab",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 219
+    },
+    {
+      "id": "666dce9a610c20dd2bb40b61",
+      "meal": "Fanta",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 9997
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 4781
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66824439610c20dd2bb40cb2",
+  "docketNum": "Rest1562",
+  "date": "Jun 30 2024",
+  "cost": "5000",
+  "CashAmount": "5000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 3678
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 8164
+    },
+    {
+      "id": "666da072610c20dd2bb40af2",
+      "meal": "Shredded Beef",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9257
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "667fd49d610c20dd2bb40c78",
+  "docketNum": "Rest9395",
+  "date": "Jun 29 2024",
+  "cost": "3800",
+  "CashAmount": "3800",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "1",
+      "meal": "Irish Potatoe Chips",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9473
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 5093
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66801423610c20dd2bb40c7d",
+  "docketNum": "Rest644",
+  "date": "Jun 29 2024",
+  "cost": "4600",
+  "CashAmount": "4600",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9271
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 5687
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 1357
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6680148f610c20dd2bb40c80",
+  "docketNum": "Rest3190",
+  "date": "Jun 29 2024",
+  "cost": "4500",
+  "CashAmount": "4500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 5963
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 4880
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "668027d4610c20dd2bb40c86",
+  "docketNum": "Rest8790",
+  "date": "Jun 29 2024",
+  "cost": "9500",
+  "POSAmount": "9500",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 9914
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 4590
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 9152
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 6509
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 1359
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "668028ed610c20dd2bb40c89",
+  "docketNum": "Rest9612",
+  "date": "Jun 29 2024",
+  "cost": "4500",
+  "TransferAmount": "4500",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 4156
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 845
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66802915610c20dd2bb40c8b",
+  "docketNum": "Rest7032",
+  "date": "Jun 29 2024",
+  "cost": "400",
+  "TransferAmount": "400",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 634
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6682cdee610c20dd2bb40cb7",
+  "docketNum": "Rest2867",
+  "date": "Jul 01 2024",
+  "cost": "650",
+  "CashAmount": "650",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 6962
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "668314eb610c20dd2bb40cc2",
+  "docketNum": "Rest3286",
+  "date": "Jul 01 2024",
+  "cost": "9800",
+  "POSAmount": "9800",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 7906
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 6267
+    },
+    {
+      "id": "666da072610c20dd2bb40af2",
+      "meal": "Shredded Beef",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 2471
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 2057
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66831544610c20dd2bb40cc5",
+  "docketNum": "Rest4207",
+  "date": "Jul 01 2024",
+  "cost": "4500",
+  "POSAmount": "4500",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 6761
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 3808
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66831585610c20dd2bb40cc7",
+  "docketNum": "Rest1135",
+  "date": "Jul 01 2024",
+  "cost": "650",
+  "CashAmount": "650",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 1,
+      "tranID": 1414
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66832c2d610c20dd2bb40cc9",
+  "docketNum": "Rest3797",
+  "date": "Jul 01 2024",
+  "cost": "800",
+  "CashAmount": "800",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 6839
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66845055610c20dd2bb40cd0",
+  "docketNum": "Rest553",
+  "date": "Jul 02 2024",
+  "cost": "5000",
+  "CashAmount": "5000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 4586
+    },
+    {
+      "id": "666da0fb610c20dd2bb40af6",
+      "meal": "Ogbono Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 5257
+    },
+    {
+      "id": "666da072610c20dd2bb40af2",
+      "meal": "Shredded Beef",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 6835
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66846181610c20dd2bb40cd3",
+  "docketNum": "Rest3808",
+  "date": "Jul 02 2024",
+  "cost": "2500",
+  "POSAmount": "2500",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 7402
+    },
+    {
+      "id": "666da10b610c20dd2bb40af7",
+      "meal": "Egusi Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 5635
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668467a3610c20dd2bb40cd5",
+  "docketNum": "Rest8058",
+  "date": "Jul 02 2024",
+  "cost": "1950",
+  "POSAmount": "1950",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 3,
+      "tranID": 7984
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6685cc42610c20dd2bb40cdd",
+  "docketNum": "Rest1285",
+  "date": "Jul 03 2024",
+  "cost": "4500",
+  "CashAmount": "4500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 1129
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9810
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "66886e88610c20dd2bb40d06",
+  "docketNum": "Rest8504",
+  "date": "Jul 05 2024",
+  "cost": "3800",
+  "CashAmount": "3800",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dd6610c20dd2bb40ad9",
+      "meal": "Veg. Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 2687
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 2668
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "6687badd610c20dd2bb40cf4",
+  "docketNum": "Rest1736",
+  "date": "Jul 05 2024",
+  "cost": "3600",
+  "CashAmount": "3600",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 2,
+      "tranID": 3381
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "6687d8ad610c20dd2bb40cf7",
+  "docketNum": "Rest3913",
+  "date": "Jul 05 2024",
+  "cost": "400",
+  "CashAmount": "400",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 9648
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "66898839610c20dd2bb40d12",
+  "docketNum": "Rest4113",
+  "date": "Jul 06 2024",
+  "cost": "4500",
+  "CashAmount": "4500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8037
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 861
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668988c1610c20dd2bb40d17",
+  "docketNum": "Rest3906",
+  "date": "Jul 06 2024",
+  "cost": "8300",
+  "TransferAmount": "8300",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8081
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9627
+    },
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 4157
+    },
+    {
+      "id": "666da3f0610c20dd2bb40b16",
+      "meal": "Veg. Omelet",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 664
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668a2ed8610c20dd2bb40d1e",
+  "docketNum": "Rest5610",
+  "date": "Jul 06 2024",
+  "cost": "10100",
+  "CashAmount": "10100",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9299
+    },
+    {
+      "id": "9",
+      "meal": "Fried Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8743
+    },
+    {
+      "id": "666da3f0610c20dd2bb40b16",
+      "meal": "Veg. Omelet",
+      "mealPrice": "1800",
+      "qty": 2,
+      "tranID": 2767
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 1628
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668ae816610c20dd2bb40d2f",
+  "docketNum": "Rest5871",
+  "date": "Jul 07 2024",
+  "cost": "19000",
+  "CashAmount": "19000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 5671
+    },
+    {
+      "id": "666da404610c20dd2bb40b17",
+      "meal": "Spanish Omelet",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 609
+    },
+    {
+      "id": "666d9dd6610c20dd2bb40ad9",
+      "meal": "Veg. Indomie",
+      "mealPrice": "2000",
+      "qty": 4,
+      "tranID": 5064
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 4,
+      "tranID": 8021
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668ae84a610c20dd2bb40d31",
+  "docketNum": "Rest4152",
+  "date": "Jul 07 2024",
+  "cost": "2000",
+  "CashAmount": "2000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 5,
+      "tranID": 5193
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668aeabb610c20dd2bb40d34",
+  "docketNum": "Rest9422",
+  "date": "Jul 07 2024",
+  "cost": "3800",
+  "CashAmount": "3800",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dd6610c20dd2bb40ad9",
+      "meal": "Veg. Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 8050
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 6106
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668af0c7610c20dd2bb40d36",
+  "docketNum": "Rest8682",
+  "date": "Jul 07 2024",
+  "cost": "2000",
+  "CashAmount": "2000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 6602
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668b17ae610c20dd2bb40d40",
+  "docketNum": "Rest5118",
+  "date": "Jul 07 2024",
+  "cost": "4200",
+  "CashAmount": "4200",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9dd6610c20dd2bb40ad9",
+      "meal": "Veg. Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 7179
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 1,
+      "tranID": 3240
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 7930
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668a7f77610c20dd2bb40d26",
+  "docketNum": "Rest4928",
+  "date": "Jul 07 2024",
+  "cost": "2000",
+  "CashAmount": "2000",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 2804
+    }
+  ],
+  "group": "",
+  "user": "TINA MICHAEL",
+  "shift": "Morning Shift"
+},
+{
+  "_id": "668d8dd8610c20dd2bb40d64",
+  "docketNum": "Rest2769",
+  "date": "Jul 09 2024",
+  "cost": "13300",
+  "TransferAmount": "13300",
+  "POSAmount": 0,
+  "CashAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Transfer",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 1,
+      "tranID": 1016
+    },
+    {
+      "id": "666da10b610c20dd2bb40af7",
+      "meal": "Egusi Soup",
+      "mealPrice": "1000",
+      "qty": 1,
+      "tranID": 8084
+    },
+    {
+      "id": "666da202610c20dd2bb40b04",
+      "meal": "Fish Peppersoup",
+      "mealPrice": "3000",
+      "qty": 1,
+      "tranID": 1152
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 2181
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 4563
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 2289
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 2,
+      "tranID": 5896
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668da95a610c20dd2bb40d68",
+  "docketNum": "Rest6734",
+  "date": "Jul 09 2024",
+  "cost": "15200",
+  "POSAmount": "15200",
+  "CashAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "POS",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "2",
+      "meal": "French Fries",
+      "mealPrice": "2000",
+      "qty": 3,
+      "tranID": 7806
+    },
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 5
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 4,
+      "tranID": 7942
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+},
+{
+  "_id": "668db5f8610c20dd2bb40d6b",
+  "docketNum": "Rest7204",
+  "date": "Jul 09 2024",
+  "cost": "4500",
+  "CashAmount": "4500",
+  "POSAmount": 0,
+  "TransferAmount": 0,
+  "CompDebit": 0,
+  "roomDebit": 0,
+  "paymentMethod": "Cash",
+  "description": "Restaurant Sales",
+  "department": "Restaurant Sales",
+  "docketDetails": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 1,
+      "tranID": 9416
+    },
+    {
+      "id": "666da051610c20dd2bb40af0",
+      "meal": "Beef Caserole",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 9601
+    }
+  ],
+  "group": "",
+  "user": "JONATHAN HOSEA",
+  "shift": "Night Shift"
+}]

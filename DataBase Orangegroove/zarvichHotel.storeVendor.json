@@ -1,0 +1,60 @@
+[{
+  "_id": "938",
+  "vendorID": "NaN",
+  "vendorName": "Eze Boy",
+  "address": "Kaduna",
+  "phone": "07085113129",
+  "email": "",
+  "productDescription": "Food",
+  "dateRegistered": "Thu Sep 14 2023 00:00:00 GMT+0100 (West Africa Standard Time)"
+},
+{
+  "_id": "2766",
+  "vendorID": "NaN",
+  "vendorName": "J. O Azubogu Nigerian Brw",
+  "address": "Kaduna",
+  "phone": "08138952620",
+  "email": "",
+  "productDescription": "Drinks",
+  "dateRegistered": "Thu Sep 21 2023 00:00:00 GMT-0700 (Pacific Daylight Time)"
+},
+{
+  "_id": "8394",
+  "vendorID": "NaN",
+  "vendorName": "Rayd Global Solution",
+  "address": "Kaduna",
+  "phone": "07030070372",
+  "email": "",
+  "productDescription": "Drinks",
+  "dateRegistered": "Thu Sep 21 2023 00:00:00 GMT-0700 (Pacific Daylight Time)"
+},
+{
+  "_id": "7814",
+  "vendorID": "NaN",
+  "vendorName": "Sam jones",
+  "address": "Kaduna",
+  "phone": "08117540852",
+  "email": "",
+  "productDescription": "Drinks",
+  "dateRegistered": "Thu Sep 21 2023 00:00:00 GMT-0700 (Pacific Daylight Time)"
+},
+{
+  "_id": "8572",
+  "vendorID": "NaN",
+  "vendorName": "Alhaji Yakubu",
+  "address": "Kaduna",
+  "phone": "08082050207",
+  "email": "",
+  "productDescription": "Non Perishables",
+  "dateRegistered": "Fri Sep 22 2023 00:00:00 GMT-0700 (Pacific Daylight Time)"
+},
+{
+  "_id": "1384",
+  "vendorID": "NaN",
+  "vendorName": "Nestle",
+  "address": "Kaduna",
+  "phone": "",
+  "email": "",
+  "productDescription": "Water",
+  "dateRegistered": "Thu Sep 28 2023 00:00:00 GMT+0200 (Central European Summer Time)"
+}]

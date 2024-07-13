@@ -1,0 +1,18 @@
+[{
+  "_id": "4917",
+  "feesID": "9000",
+  "feesName": "VAT",
+  "feesRate": "0"
+},
+{
+  "_id": "9881",
+  "feesID": "9001",
+  "feesName": "Service Charge",
+  "feesRate": "0"
+},
+{
+  "_id": "8468",
+  "feesID": "9002",
+  "feesName": "Tourism",
+  "feesRate": "0"
+}]

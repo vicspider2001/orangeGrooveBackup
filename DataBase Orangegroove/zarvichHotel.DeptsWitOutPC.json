@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0f8"
+  },
+  "DeptID": "1",
+  "DeptName": "Laundry"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0f9"
+  },
+  "DeptID": "2",
+  "DeptName": "Gymnasium"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0fa"
+  },
+  "DeptID": "3",
+  "DeptName": "Suya"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0fb"
+  },
+  "DeptID": "4",
+  "DeptName": "MiniMart"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0fc"
+  },
+  "DeptID": "5",
+  "DeptName": "Barbeque"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0fd"
+  },
+  "DeptID": "6",
+  "DeptName": "Games"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0fe"
+  },
+  "DeptID": "7",
+  "DeptName": "HallHire"
+},
+{
+  "_id": {
+    "$oid": "666a891396de5cfef105f0ff"
+  },
+  "DeptID": "8",
+  "DeptName": "Swimming"
+}]

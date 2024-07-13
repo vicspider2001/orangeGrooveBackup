@@ -1,0 +1,464 @@
+[{
+  "_id": "1",
+  "tableNum": "1",
+  "selected": [
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 7877
+    },
+    {
+      "id": "666da202610c20dd2bb40b04",
+      "meal": "Fish Peppersoup",
+      "mealPrice": "3000",
+      "qty": 2,
+      "tranID": 5017
+    },
+    {
+      "id": "666d9eab610c20dd2bb40ae1",
+      "meal": "White Rice",
+      "mealPrice": "2000",
+      "qty": 3,
+      "tranID": 7766
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 7991
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 7224
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 9,
+      "tranID": 2562
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 9,
+      "tranID": 4080
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 4,
+      "tranID": 7694
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 5,
+      "tranID": 432
+    },
+    {
+      "id": "666d9e0c610c20dd2bb40ada",
+      "meal": "Jollof Rice",
+      "mealPrice": "2000",
+      "qty": 6,
+      "tranID": 9903
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 5,
+      "tranID": 197
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 1,
+      "tranID": 5519
+    },
+    {
+      "id": "666da17f610c20dd2bb40afc",
+      "meal": "Semovita",
+      "mealPrice": "1500",
+      "qty": 13,
+      "tranID": 6497
+    },
+    {
+      "id": "666d9fb7610c20dd2bb40aea",
+      "meal": "Chicken Peppersoup",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 9408
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 11,
+      "tranID": 9319
+    },
+    {
+      "id": "666da10b610c20dd2bb40af7",
+      "meal": "Egusi Soup",
+      "mealPrice": "1000",
+      "qty": 13,
+      "tranID": 1347
+    },
+    {
+      "id": "8",
+      "meal": "Boiled Yam",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 6123
+    },
+    {
+      "id": "666d9dbc610c20dd2bb40ad8",
+      "meal": "Fried Indomie",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 5319
+    },
+    {
+      "id": "666da3c5610c20dd2bb40b15",
+      "meal": "Fried Egg",
+      "mealPrice": "1800",
+      "qty": 4,
+      "tranID": 1111
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 40,
+      "tranID": 5967
+    },
+    {
+      "id": "666dce9a610c20dd2bb40b61",
+      "meal": "Fanta",
+      "mealPrice": "650",
+      "qty": 11,
+      "tranID": 2834
+    },
+    {
+      "id": "666dcead610c20dd2bb40b62",
+      "meal": "Coke",
+      "mealPrice": "650",
+      "qty": 18,
+      "tranID": 2652
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 1,
+      "tranID": 510
+    }
+  ],
+  "billCost": 223450,
+  "user": ""
+},
+{
+  "_id": "2",
+  "tableNum": "2",
+  "selected": [
+    {
+      "id": "666d9e2f610c20dd2bb40adc",
+      "meal": "Fried Rice",
+      "mealPrice": "2000",
+      "qty": 2,
+      "tranID": 8778
+    },
+    {
+      "id": "666da060610c20dd2bb40af1",
+      "meal": "Beef Kebab",
+      "mealPrice": "2500",
+      "qty": 2,
+      "tranID": 3431
+    },
+    {
+      "id": "666dcebf610c20dd2bb40b63",
+      "meal": "Water",
+      "mealPrice": "400",
+      "qty": 6,
+      "tranID": 1323
+    }
+  ],
+  "billCost": 11400,
+  "user": ""
+},
+{
+  "_id": "3",
+  "tableNum": "3",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "4",
+  "tableNum": "4",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "5",
+  "tableNum": "5",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "6",
+  "tableNum": "6",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "7",
+  "tableNum": "7",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "8",
+  "tableNum": "8",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "9",
+  "tableNum": "9",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "10",
+  "tableNum": "10",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "11",
+  "tableNum": "11",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "12",
+  "tableNum": "12",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "13",
+  "tableNum": "13",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "14",
+  "tableNum": "14",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "15",
+  "tableNum": "15",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "16",
+  "tableNum": "16",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "17",
+  "tableNum": "17",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "18",
+  "tableNum": "18",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "19",
+  "tableNum": "19",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "20",
+  "tableNum": "20",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "21",
+  "tableNum": "21",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "22",
+  "tableNum": "22",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "23",
+  "tableNum": "23",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "24",
+  "tableNum": "24",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "25",
+  "tableNum": "25",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "26",
+  "tableNum": "26",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "27",
+  "tableNum": "27",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "28",
+  "tableNum": "28",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "29",
+  "tableNum": "29",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "30",
+  "tableNum": "30",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "31",
+  "tableNum": "31",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "32",
+  "tableNum": "32",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "33",
+  "tableNum": "33",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "34",
+  "tableNum": "34",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "35",
+  "tableNum": "35",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "36",
+  "tableNum": "36",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "37",
+  "tableNum": "37",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "38",
+  "tableNum": "38",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "39",
+  "tableNum": "39",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+},
+{
+  "_id": "40",
+  "tableNum": "40",
+  "selected": [],
+  "billCost": "",
+  "user": ""
+}]

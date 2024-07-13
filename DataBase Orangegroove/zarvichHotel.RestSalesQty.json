@@ -1,0 +1,2568 @@
+[{
+  "_id": {
+    "$oid": "6670414e610c20dd2bb40b72"
+  },
+  "id": 6101,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 17 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6670b47c610c20dd2bb40b78"
+  },
+  "id": 1523,
+  "productName": "French Fries",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670b47c610c20dd2bb40b79"
+  },
+  "id": 6388,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670b4d8610c20dd2bb40b7b"
+  },
+  "id": 9803,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b7d"
+  },
+  "id": 5570,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 4,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b7e"
+  },
+  "id": 9745,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 4,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b7f"
+  },
+  "id": 8870,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b80"
+  },
+  "id": 3766,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b81"
+  },
+  "id": 473,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b82"
+  },
+  "id": 7170,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b83"
+  },
+  "id": 3241,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b84"
+  },
+  "id": 1170,
+  "productName": "Fanta",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b85"
+  },
+  "id": 8508,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6670c876610c20dd2bb40b86"
+  },
+  "id": 721,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 17 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66717071610c20dd2bb40b8b"
+  },
+  "id": 4227,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 4,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66717071610c20dd2bb40b8c"
+  },
+  "id": 8085,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 4,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6671711b610c20dd2bb40b8e"
+  },
+  "id": 4216,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 4,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66719f20610c20dd2bb40b98"
+  },
+  "id": 859,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66719f20610c20dd2bb40b99"
+  },
+  "id": 3573,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66719f20610c20dd2bb40b9a"
+  },
+  "id": 3291,
+  "productName": "White Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66719f20610c20dd2bb40b9b"
+  },
+  "id": 7102,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66719f72610c20dd2bb40b9d"
+  },
+  "id": 9425,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 5,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6671a305610c20dd2bb40ba3"
+  },
+  "id": 9877,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6671a305610c20dd2bb40ba4"
+  },
+  "id": 1774,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 18 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6671c1ee610c20dd2bb40ba6"
+  },
+  "id": 3297,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6671dd53610c20dd2bb40ba8"
+  },
+  "id": 8160,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6671f93e610c20dd2bb40baa"
+  },
+  "id": 4637,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6671f93e610c20dd2bb40bab"
+  },
+  "id": 5257,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6671f93e610c20dd2bb40bac"
+  },
+  "id": 2787,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66726e07610c20dd2bb40bae"
+  },
+  "id": 5603,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66726e07610c20dd2bb40baf"
+  },
+  "id": 818,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6672714b610c20dd2bb40bb1"
+  },
+  "id": 3280,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6672714b610c20dd2bb40bb2"
+  },
+  "id": 4839,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 18 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667326de610c20dd2bb40bba"
+  },
+  "id": 6625,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667326de610c20dd2bb40bbb"
+  },
+  "id": 9573,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66732738610c20dd2bb40bbd"
+  },
+  "id": 3457,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66734eaa610c20dd2bb40bc3"
+  },
+  "id": 3341,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66734eaa610c20dd2bb40bc4"
+  },
+  "id": 6420,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66734eaa610c20dd2bb40bc5"
+  },
+  "id": 5592,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66734eaa610c20dd2bb40bc6"
+  },
+  "id": 6380,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66734eaa610c20dd2bb40bc7"
+  },
+  "id": 9076,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bc9"
+  },
+  "id": 777,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bca"
+  },
+  "id": 6339,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bcb"
+  },
+  "id": 3045,
+  "productName": "Fried Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bcc"
+  },
+  "id": 8568,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bcd"
+  },
+  "id": 4201,
+  "productName": "Veg. Omelet",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bce"
+  },
+  "id": 2682,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bcf"
+  },
+  "id": 1304,
+  "productName": "Fried Yam",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bd0"
+  },
+  "id": 6281,
+  "productName": "Veg. Omelet",
+  "productPrice": "1800",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6673774a610c20dd2bb40bd1"
+  },
+  "id": 1756,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 19 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6674a848610c20dd2bb40bdc"
+  },
+  "id": 8313,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 20 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6674a8be610c20dd2bb40bde"
+  },
+  "id": 9621,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 20 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6674a8be610c20dd2bb40bdf"
+  },
+  "id": 3398,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 20 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6674a8f6610c20dd2bb40be1"
+  },
+  "id": 6370,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 20 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e1d9610c20dd2bb40bed"
+  },
+  "id": 8155,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e1d9610c20dd2bb40bee"
+  },
+  "id": 2524,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e1d9610c20dd2bb40bef"
+  },
+  "id": 7003,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e1d9610c20dd2bb40bf0"
+  },
+  "id": 2642,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e1d9610c20dd2bb40bf1"
+  },
+  "id": 5692,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e1d9610c20dd2bb40bf2"
+  },
+  "id": 2595,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e30d610c20dd2bb40bf4"
+  },
+  "id": 5616,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e30d610c20dd2bb40bf5"
+  },
+  "id": 7119,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6675e30d610c20dd2bb40bf6"
+  },
+  "id": 6550,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66760bde610c20dd2bb40bf8"
+  },
+  "id": 3273,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66760bde610c20dd2bb40bf9"
+  },
+  "id": 2981,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66760bde610c20dd2bb40bfa"
+  },
+  "id": 5144,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66760bde610c20dd2bb40bfb"
+  },
+  "id": 2758,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 3,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66760bde610c20dd2bb40bfc"
+  },
+  "id": 6583,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 4,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40bfe"
+  },
+  "id": 4248,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40bff"
+  },
+  "id": 5567,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c00"
+  },
+  "id": 4425,
+  "productName": "Fried Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c01"
+  },
+  "id": 9334,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c02"
+  },
+  "id": 9928,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c03"
+  },
+  "id": 7870,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c04"
+  },
+  "id": 5618,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c05"
+  },
+  "id": 6763,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 2,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66761566610c20dd2bb40c06"
+  },
+  "id": 6812,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 3,
+  "user": "MARY SUNDAY",
+  "tranDate": "Jun 21 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6676acca610c20dd2bb40c09"
+  },
+  "id": 600,
+  "productName": "Spaghetti Napolitan",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676acca610c20dd2bb40c0a"
+  },
+  "id": 2174,
+  "productName": "Boiled Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676acca610c20dd2bb40c0b"
+  },
+  "id": 4686,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676acca610c20dd2bb40c0c"
+  },
+  "id": 3019,
+  "productName": "Pepper Omelet",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676b256610c20dd2bb40c0e"
+  },
+  "id": 9599,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676b256610c20dd2bb40c0f"
+  },
+  "id": 4538,
+  "productName": "Fish Peppersoup",
+  "productPrice": "3000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676f213610c20dd2bb40c11"
+  },
+  "id": 5560,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676f213610c20dd2bb40c12"
+  },
+  "id": 9236,
+  "productName": "Fish Peppersoup",
+  "productPrice": "3000",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676f213610c20dd2bb40c13"
+  },
+  "id": 9364,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6676f213610c20dd2bb40c14"
+  },
+  "id": 9025,
+  "productName": "Fanta",
+  "productPrice": "650",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 21 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6677615e610c20dd2bb40c2a"
+  },
+  "id": 7846,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 22 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66784200610c20dd2bb40c2f"
+  },
+  "id": 4522,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 23 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66784200610c20dd2bb40c30"
+  },
+  "id": 1783,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 23 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66784235610c20dd2bb40c32"
+  },
+  "id": 2024,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 23 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667896ff610c20dd2bb40c3b"
+  },
+  "id": 2653,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 23 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667896ff610c20dd2bb40c3c"
+  },
+  "id": 9471,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 23 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667896ff610c20dd2bb40c3d"
+  },
+  "id": 1694,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 23 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6679dde0610c20dd2bb40c44"
+  },
+  "id": 3261,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 24 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6679dde0610c20dd2bb40c45"
+  },
+  "id": 8213,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 24 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6679dde0610c20dd2bb40c46"
+  },
+  "id": 7227,
+  "productName": "Fish Peppersoup",
+  "productPrice": "3000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 24 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667be9fd610c20dd2bb40c4c"
+  },
+  "id": 6685,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 26 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc1e8610c20dd2bb40c55"
+  },
+  "id": 6902,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc1e8610c20dd2bb40c57"
+  },
+  "id": 5261,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc1e8610c20dd2bb40c56"
+  },
+  "id": 9677,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc217610c20dd2bb40c59"
+  },
+  "id": 8565,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc94d610c20dd2bb40c5b"
+  },
+  "id": 9373,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc94d610c20dd2bb40c5c"
+  },
+  "id": 3465,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dc94d610c20dd2bb40c5d"
+  },
+  "id": 571,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dcc7b610c20dd2bb40c5f"
+  },
+  "id": 3374,
+  "productName": "Fanta",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667dcc7b610c20dd2bb40c60"
+  },
+  "id": 9935,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 27 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667e9460610c20dd2bb40c63"
+  },
+  "id": 6289,
+  "productName": "Irish Potatoe Chips",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 28 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667e9460610c20dd2bb40c64"
+  },
+  "id": 9881,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 28 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667f0593610c20dd2bb40c68"
+  },
+  "id": 229,
+  "productName": "White Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667f0593610c20dd2bb40c69"
+  },
+  "id": 3834,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667f0593610c20dd2bb40c6a"
+  },
+  "id": 6025,
+  "productName": "Milo Tea",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667f2343610c20dd2bb40c6d"
+  },
+  "id": 8001,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667f2343610c20dd2bb40c6e"
+  },
+  "id": 2158,
+  "productName": "Fanta",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667f2343610c20dd2bb40c6f"
+  },
+  "id": 5350,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667f2343610c20dd2bb40c70"
+  },
+  "id": 6657,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 28 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "667fd478610c20dd2bb40c76"
+  },
+  "id": 9473,
+  "productName": "Irish Potatoe Chips",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "667fd478610c20dd2bb40c77"
+  },
+  "id": 5093,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66801407610c20dd2bb40c7a"
+  },
+  "id": 9271,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66801407610c20dd2bb40c7b"
+  },
+  "id": 5687,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66801407610c20dd2bb40c7c"
+  },
+  "id": 1357,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6680147a610c20dd2bb40c7e"
+  },
+  "id": 5963,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6680147a610c20dd2bb40c7f"
+  },
+  "id": 4880,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668027ba610c20dd2bb40c81"
+  },
+  "id": 9914,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668027ba610c20dd2bb40c82"
+  },
+  "id": 4590,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668027ba610c20dd2bb40c83"
+  },
+  "id": 9152,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668027ba610c20dd2bb40c84"
+  },
+  "id": 6509,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668027ba610c20dd2bb40c85"
+  },
+  "id": 1359,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668028d4610c20dd2bb40c87"
+  },
+  "id": 4156,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668028d4610c20dd2bb40c88"
+  },
+  "id": 845,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668028ff610c20dd2bb40c8a"
+  },
+  "id": 634,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jun 29 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c8d"
+  },
+  "id": 2453,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c8e"
+  },
+  "id": 5849,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c8f"
+  },
+  "id": 2656,
+  "productName": "Fried Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c90"
+  },
+  "id": 6205,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c91"
+  },
+  "id": 9336,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c92"
+  },
+  "id": 2725,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680522b610c20dd2bb40c93"
+  },
+  "id": 3835,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 4,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668062c6610c20dd2bb40c95"
+  },
+  "id": 8954,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680957c610c20dd2bb40c99"
+  },
+  "id": 5778,
+  "productName": "White Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680957c610c20dd2bb40c9a"
+  },
+  "id": 3720,
+  "productName": "Fish Peppersoup",
+  "productPrice": "3000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680966c610c20dd2bb40c9c"
+  },
+  "id": 4161,
+  "productName": "Boiled Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680966c610c20dd2bb40c9d"
+  },
+  "id": 7146,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680966c610c20dd2bb40c9e"
+  },
+  "id": 8298,
+  "productName": "French Fries",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680966c610c20dd2bb40c9f"
+  },
+  "id": 9655,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6680966c610c20dd2bb40ca0"
+  },
+  "id": 8365,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668096ce610c20dd2bb40ca2"
+  },
+  "id": 8657,
+  "productName": "Boiled Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668096ce610c20dd2bb40ca3"
+  },
+  "id": 5999,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668096ce610c20dd2bb40ca4"
+  },
+  "id": 8956,
+  "productName": "White Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668096ce610c20dd2bb40ca5"
+  },
+  "id": 219,
+  "productName": "Chicken Kebab",
+  "productPrice": "2500",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668096ce610c20dd2bb40ca6"
+  },
+  "id": 9997,
+  "productName": "Fanta",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668096ce610c20dd2bb40ca7"
+  },
+  "id": 4781,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 29 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66824415610c20dd2bb40caf"
+  },
+  "id": 3678,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 30 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66824415610c20dd2bb40cb0"
+  },
+  "id": 8164,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 30 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66824415610c20dd2bb40cb1"
+  },
+  "id": 9257,
+  "productName": "Shredded Beef",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jun 30 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6682cdd4610c20dd2bb40cb6"
+  },
+  "id": 6962,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 01 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66831493610c20dd2bb40cba"
+  },
+  "id": 7906,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66831493610c20dd2bb40cbb"
+  },
+  "id": 6267,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66831493610c20dd2bb40cbc"
+  },
+  "id": 2471,
+  "productName": "Shredded Beef",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66831493610c20dd2bb40cbd"
+  },
+  "id": 2057,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668314d3610c20dd2bb40cbe"
+  },
+  "id": 7906,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668314d3610c20dd2bb40cbf"
+  },
+  "id": 6267,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668314d3610c20dd2bb40cc0"
+  },
+  "id": 2471,
+  "productName": "Shredded Beef",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668314d3610c20dd2bb40cc1"
+  },
+  "id": 2057,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66831534610c20dd2bb40cc3"
+  },
+  "id": 6761,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66831534610c20dd2bb40cc4"
+  },
+  "id": 3808,
+  "productName": "Chicken Peppersoup",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66831572610c20dd2bb40cc6"
+  },
+  "id": 1414,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66832b22610c20dd2bb40cc8"
+  },
+  "id": 6839,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 01 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6684503f610c20dd2bb40ccd"
+  },
+  "id": 4586,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 02 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6684503f610c20dd2bb40cce"
+  },
+  "id": 5257,
+  "productName": "Ogbono Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 02 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6684503f610c20dd2bb40ccf"
+  },
+  "id": 6835,
+  "productName": "Shredded Beef",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 02 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66846171610c20dd2bb40cd1"
+  },
+  "id": 7402,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 02 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66846171610c20dd2bb40cd2"
+  },
+  "id": 5635,
+  "productName": "Egusi Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 02 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66846790610c20dd2bb40cd4"
+  },
+  "id": 7984,
+  "productName": "Coke",
+  "productPrice": "650",
+  "Quantity": 3,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 02 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6685cbf8610c20dd2bb40cdb"
+  },
+  "id": 1129,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 03 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6685cbf8610c20dd2bb40cdc"
+  },
+  "id": 9810,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 03 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6687bacd610c20dd2bb40cf3"
+  },
+  "id": 3381,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 2,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 04 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "6687d89b610c20dd2bb40cf6"
+  },
+  "id": 9648,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 05 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "66886e68610c20dd2bb40d04"
+  },
+  "id": 2687,
+  "productName": "Veg. Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 05 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66886e68610c20dd2bb40d05"
+  },
+  "id": 2668,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 05 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66898816610c20dd2bb40d10"
+  },
+  "id": 8037,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "66898816610c20dd2bb40d11"
+  },
+  "id": 861,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6689886b610c20dd2bb40d13"
+  },
+  "id": 8081,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6689886c610c20dd2bb40d14"
+  },
+  "id": 9627,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6689886c610c20dd2bb40d15"
+  },
+  "id": 4157,
+  "productName": "Boiled Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "6689886c610c20dd2bb40d16"
+  },
+  "id": 664,
+  "productName": "Veg. Omelet",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668a2ebc610c20dd2bb40d1a"
+  },
+  "id": 9299,
+  "productName": "Boiled Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668a2ebc610c20dd2bb40d1b"
+  },
+  "id": 8743,
+  "productName": "Fried Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668a2ebc610c20dd2bb40d1c"
+  },
+  "id": 2767,
+  "productName": "Veg. Omelet",
+  "productPrice": "1800",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668a2ebc610c20dd2bb40d1d"
+  },
+  "id": 1628,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 06 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668a7f6a610c20dd2bb40d25"
+  },
+  "id": 2804,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "TINA MICHAEL",
+  "tranDate": "Jul 07 2024",
+  "shift": "Morning Shift"
+},
+{
+  "_id": {
+    "$oid": "668ae7ea610c20dd2bb40d2b"
+  },
+  "id": 5671,
+  "productName": "Boiled Yam",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668ae7ea610c20dd2bb40d2c"
+  },
+  "id": 609,
+  "productName": "Spanish Omelet",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668ae7ea610c20dd2bb40d2d"
+  },
+  "id": 8021,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 4,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668ae7ea610c20dd2bb40d2e"
+  },
+  "id": 5064,
+  "productName": "Veg. Indomie",
+  "productPrice": "2000",
+  "Quantity": 4,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668ae82d610c20dd2bb40d30"
+  },
+  "id": 5193,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 5,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668aeaa2610c20dd2bb40d32"
+  },
+  "id": 8050,
+  "productName": "Veg. Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668aeaa2610c20dd2bb40d33"
+  },
+  "id": 6106,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668af09d610c20dd2bb40d35"
+  },
+  "id": 6602,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668af86d610c20dd2bb40d38"
+  },
+  "id": 7179,
+  "productName": "Veg. Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668af86d610c20dd2bb40d39"
+  },
+  "id": 3240,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668af86d610c20dd2bb40d3a"
+  },
+  "id": 7930,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 07 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d5d"
+  },
+  "id": 1016,
+  "productName": "Semovita",
+  "productPrice": "1500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d5e"
+  },
+  "id": 8084,
+  "productName": "Egusi Soup",
+  "productPrice": "1000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d5f"
+  },
+  "id": 1152,
+  "productName": "Fish Peppersoup",
+  "productPrice": "3000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d60"
+  },
+  "id": 2181,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d61"
+  },
+  "id": 4563,
+  "productName": "Jollof Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d62"
+  },
+  "id": 2289,
+  "productName": "Beef Kebab",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668d8dd6610c20dd2bb40d63"
+  },
+  "id": 5896,
+  "productName": "Water",
+  "productPrice": "400",
+  "Quantity": 2,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668da93b610c20dd2bb40d65"
+  },
+  "id": 7806,
+  "productName": "French Fries",
+  "productPrice": "2000",
+  "Quantity": 3,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668da93b610c20dd2bb40d66"
+  },
+  "id": 5,
+  "productName": "Fried Indomie",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668da93b610c20dd2bb40d67"
+  },
+  "id": 7942,
+  "productName": "Fried Egg",
+  "productPrice": "1800",
+  "Quantity": 4,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668db5e2610c20dd2bb40d6a"
+  },
+  "id": 9601,
+  "productName": "Beef Caserole",
+  "productPrice": "2500",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+},
+{
+  "_id": {
+    "$oid": "668db5e2610c20dd2bb40d69"
+  },
+  "id": 9416,
+  "productName": "Fried Rice",
+  "productPrice": "2000",
+  "Quantity": 1,
+  "user": "JONATHAN HOSEA",
+  "tranDate": "Jul 09 2024",
+  "shift": "Night Shift"
+}]

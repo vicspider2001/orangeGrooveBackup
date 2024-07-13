@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc98f"
+  },
+  "departmentID": "20001",
+  "departmentName": "Kitchen"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc990"
+  },
+  "departmentID": "20002",
+  "departmentName": "Bar"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc991"
+  },
+  "departmentID": "20005",
+  "departmentName": "Housekeeping"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc992"
+  },
+  "departmentID": "20006",
+  "departmentName": "Reception"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc993"
+  },
+  "departmentID": "20007",
+  "departmentName": "Accounts Office"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc994"
+  },
+  "departmentID": "20008",
+  "departmentName": "Manager's Office"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc995"
+  },
+  "departmentID": "20009",
+  "departmentName": "Central Store"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc996"
+  },
+  "departmentID": "20010",
+  "departmentName": "Club"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc997"
+  },
+  "departmentID": "20011",
+  "departmentName": "Maintenance Office"
+},
+{
+  "_id": {
+    "$oid": "63dbaf1730e6461de0bbc998"
+  },
+  "departmentID": "20012",
+  "departmentName": "PoolBar"
+},
+{
+  "_id": "5845",
+  "departmentID": "20013",
+  "departmentName": "Restaurant"
+},
+{
+  "_id": "3634",
+  "departmentID": "20014",
+  "departmentName": "Lounge Bar"
+},
+{
+  "_id": "2218",
+  "departmentID": "20015",
+  "departmentName": "Kitchen Store"
+},
+{
+  "_id": "7342",
+  "departmentID": "20016",
+  "departmentName": "Laundry"
+},
+{
+  "_id": "2031",
+  "departmentID": "20017",
+  "departmentName": "Garden Bar"
+}]

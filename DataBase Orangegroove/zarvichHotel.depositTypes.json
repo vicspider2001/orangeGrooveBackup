@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "666a88f696de5cfef105f0f0"
+  },
+  "id": "1",
+  "method": "Initial Deposit"
+},
+{
+  "_id": {
+    "$oid": "666a88f696de5cfef105f0f1"
+  },
+  "id": "2",
+  "method": "Additional Deposit"
+},
+{
+  "_id": {
+    "$oid": "666a88f696de5cfef105f0f2"
+  },
+  "id": "3",
+  "method": "Bill Settlement"
+}]

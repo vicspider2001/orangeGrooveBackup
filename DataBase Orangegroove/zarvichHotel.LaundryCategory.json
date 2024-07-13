@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "666a8ac196de5cfef105f139"
+  },
+  "mealTypeID": 1,
+  "mealType": "Gentle Men"
+},
+{
+  "_id": {
+    "$oid": "666a8ac196de5cfef105f13a"
+  },
+  "mealTypeID": 2,
+  "mealType": "Ladies"
+},
+{
+  "_id": {
+    "$oid": "666a8ac196de5cfef105f13b"
+  },
+  "mealTypeID": 3,
+  "mealType": "Towels"
+},
+{
+  "_id": {
+    "$oid": "666a8ac196de5cfef105f13c"
+  },
+  "mealTypeID": 4,
+  "mealType": "Bed Covers"
+}]
