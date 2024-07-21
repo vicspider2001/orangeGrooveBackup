@@ -5841,6 +5841,7 @@ zarvich.get('/owingGuests', async (req, res) => {
     try {
         const checkinData = db.collection('checkinData');
         const result = await checkinData.aggregate([
+            // Join with roomDeposits
             {
                 $lookup: {
                     from: "roomDeposits",
@@ -5857,9 +5858,16 @@ zarvich.get('/owingGuests', async (req, res) => {
                     fname: { $first: "$fname" },
                     lname: { $first: "$lname" },
                     transactionDate: { $first: "$transactionDate" },
-                    totalDeposit: { $sum: { $add: [{ $toDouble: "$deposits.POSAmount" }, { $toDouble: "$deposits.CashAmount" }, { $toDouble: "$deposits.TransferAmount" }] } }
+                    totalDeposit: { $sum: {
+                        $add: [
+                            { $ifNull: [{ $toDouble: "$deposits.POSAmount" }, 0] },
+                            { $ifNull: [{ $toDouble: "$deposits.CashAmount" }, 0] },
+                            { $ifNull: [{ $toDouble: "$deposits.TransferAmount" }, 0] }
+                        ]
+                    } }
                 }
             },
+            // Join with roomPostingData
             {
                 $lookup: {
                     from: "roomPostingData",
@@ -5877,9 +5885,16 @@ zarvich.get('/owingGuests', async (req, res) => {
                     lname: { $first: "$lname" },
                     transactionDate: { $first: "$transactionDate" },
                     totalDeposit: { $first: "$totalDeposit" },
-                    totalPosting: { $sum: { $add: [{ $toDouble: "$postings.POSAmount" }, { $toDouble: "$postings.CashAmount" }, { $toDouble: "$postings.TransferAmount" }] } }
+                    totalPosting: { $sum: {
+                        $add: [
+                            { $ifNull: [{ $toDouble: "$postings.POSAmount" }, 0] },
+                            { $ifNull: [{ $toDouble: "$postings.CashAmount" }, 0] },
+                            { $ifNull: [{ $toDouble: "$postings.TransferAmount" }, 0] }
+                        ]
+                    } }
                 }
             },
+            // Join with FirstNite
             {
                 $lookup: {
                     from: "FirstNite",
@@ -5898,9 +5913,10 @@ zarvich.get('/owingGuests', async (req, res) => {
                     transactionDate: { $first: "$transactionDate" },
                     totalDeposit: { $first: "$totalDeposit" },
                     totalPosting: { $first: "$totalPosting" },
-                    totalFirstNiteRate: { $sum: { $toDouble: "$firstNite.dailyRate" } }
+                    totalFirstNiteRate: { $sum: { $ifNull: [{ $toDouble: "$firstNite.dailyRate" }, 0] } }
                 }
             },
+            // Join with grcharges
             {
                 $lookup: {
                     from: "grcharges",
@@ -5920,7 +5936,25 @@ zarvich.get('/owingGuests', async (req, res) => {
                     totalDeposit: { $first: "$totalDeposit" },
                     totalPosting: { $first: "$totalPosting" },
                     totalFirstNiteRate: { $first: "$totalFirstNiteRate" },
-                    totalChargesRate: { $sum: { $toDouble: "$charges.dailyRate" } }
+                    totalChargesRate: { $sum: { $ifNull: [{ $toDouble: "$charges.dailyRate" }, 0] } }
+                }
+            },
+            {
+                $addFields: {
+                    totalRoomRate: { $add: ["$totalFirstNiteRate", "$totalChargesRate"] }
+                }
+            },
+            {
+                $addFields: {
+                    guestBalance: {
+                        $subtract: [
+                            { $toDouble: "$totalDeposit" },
+                            { $add: [
+                                { $toDouble: "$totalPosting" },
+                                { $toDouble: "$totalRoomRate" }
+                            ]}
+                        ]
+                    }
                 }
             },
             {
@@ -5933,12 +5967,12 @@ zarvich.get('/owingGuests', async (req, res) => {
                     transactionDate: 1,
                     totalDeposit: 1,
                     totalPosting: 1,
-                    totalRoomRate: { $add: ["$totalFirstNiteRate", "$totalChargesRate"] },
-                    guestBalance: { $subtract: ["$totalDeposit", { $add: ["$totalPosting", "$totalRoomRate"] }] }
+                    totalRoomRate: 1,
+                    guestBalance: 1,
+                    
                 }
             }
         ]).toArray();
-       
 
         res.json(result);
     } catch (error) {
@@ -5946,6 +5980,10 @@ zarvich.get('/owingGuests', async (req, res) => {
         res.status(500).send(error.message);
     }
 });
+
+
+
+
 
 
 MongoClient.connect(MongoUrl, (err,client) => {
